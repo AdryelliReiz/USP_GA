@@ -36,10 +36,12 @@
 }
 
 .navbar__brand-mark {
-  width: 30px;
-  height: 30px;
-  border-radius: 9px;
-  background: linear-gradient(135deg, var(--cc-verde) 0%, var(--cc-azul) 100%);
+  width: 60px;
+  height: 60px;
+  background-color: var(--cc-verde);
+  background-image: url('/coop-clima-logo.png');
+  background-size: cover;
+  background-position: center;
   flex-shrink: 0;
 }
 
