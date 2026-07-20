@@ -1,0 +1,682 @@
+CD_SETOR,SITUACAO,CD_SIT,CD_TIPO,AREA_KM2,NM_REGIAO,NM_UF,NM_MUN,CD_DIST,CD_BAIRRO,NM_BAIRRO,CD_NU,NM_NU,CD_FCU,NM_FCU,CD_AGLOM,NM_AGLOM,NM_CONCURB,field_6,field_7,field_8,pop_amarel,pop_indige
+355100905000180,Urbana,1,0,"0,05163818631",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000181,Urbana,1,0,"0,07305568718",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000183,Urbana,1,0,"0,06950203612",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000184,Urbana,1,0,"0,03448484178",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000186,Urbana,1,0,"0,0532885784",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,9,0,9,9,0
+355100905000187,Urbana,1,0,"0,04727936464",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000349,Urbana,1,0,"0,03776363902",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000350,Urbana,1,0,"0,03135679457",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000453,Urbana,1,0,"0,0251490025",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000454,Urbana,1,0,"0,009417030311",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000455,Urbana,1,0,"0,03406822243",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000456,Urbana,1,0,"0,02583198588",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000724,Urbana,1,0,"0,03837203895",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000725,Urbana,1,0,"0,04687258002",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000824,Urbana,1,0,"0,06030386776",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,,,,,Baixada Santista/SP,11,0,11,11,0
+355100905000825,Urbana,1,1,"0,01051851429",Sudeste,São Paulo,São Vicente,355100905,3551009015,Beira Mar,,,35510090024,Eduardo Dias Coelho,,,Baixada Santista/SP,0,0,0,0,0
+355100905000090,Urbana,1,0,"0,02501130991",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000092,Urbana,1,0,"0,02968620102",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000094,Urbana,1,0,"0,01582777395",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000096,Urbana,1,0,"0,01071700172",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000098,Urbana,1,0,"0,01941356324",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000099,Urbana,1,0,"0,0131827303",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000102,Urbana,1,0,"0,01324813699",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,9,0,9,9,0
+355100905000103,Urbana,1,0,"0,007357812872",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000420,Urbana,1,0,"0,01535554572",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000421,Urbana,1,0,"0,01962074815",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000547,Urbana,1,0,"0,01238108624",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000548,Urbana,1,0,"0,005437505624",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,3,3,0,3
+355100905000549,Urbana,1,0,"0,01109798143",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000550,Urbana,1,0,"0,01020517961",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000551,Urbana,1,0,"0,006489165384",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000552,Urbana,1,0,"0,008456255038",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,6,3,9,6,3
+355100905000553,Urbana,1,0,"0,01585219489",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000554,Urbana,1,0,"0,004365075839",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000555,Urbana,1,0,"0,01487144339",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,10,0,10,10,0
+355100905000556,Urbana,1,0,"0,01329335102",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000557,Urbana,1,0,"0,01150056563",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000558,Urbana,1,0,"0,004523628957",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000559,Urbana,1,0,"0,01295927246",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000560,Urbana,1,0,"0,002796689459",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000561,Urbana,1,0,"0,01229069975",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,11,0,11,11,0
+355100905000562,Urbana,1,0,"0,006186226248",Sudeste,São Paulo,São Vicente,355100905,3551009003,Boa Vista,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000016,Urbana,1,1,"0,02973566035",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,35510090001,Sá Catarina de Moraes,,,Baixada Santista/SP,0,0,0,0,0
+355100905000017,Urbana,1,1,"0,04022837011",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,35510090001,Sá Catarina de Moraes,,,Baixada Santista/SP,0,0,0,0,0
+355100905000018,Urbana,1,1,"0,02031093096",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,35510090001,Sá Catarina de Moraes,,,Baixada Santista/SP,7,0,7,7,0
+355100905000019,Urbana,1,0,"0,03464799616",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000020,Urbana,1,0,"0,05597665124",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000021,Urbana,1,0,"0,04760151499",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,7,4,11,7,4
+355100905000022,Urbana,1,0,"0,03631134018",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000023,Urbana,1,0,"0,04244195993",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000024,Urbana,1,0,"0,04335718448",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000025,Urbana,1,0,"0,04259234187",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000026,Urbana,1,0,"0,05353117963",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000027,Urbana,1,0,"0,09702176246",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000028,Urbana,1,0,"0,0351712998",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000029,Urbana,1,0,"0,04607762343",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000340,Urbana,1,0,"0,03995492276",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,17,0,17,17,0
+355100905000394,Urbana,1,0,"0,09117476513",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000395,Urbana,1,1,"0,03768426216",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,35510090001,Sá Catarina de Moraes,,,Baixada Santista/SP,4,0,4,4,0
+355100905000396,Urbana,1,0,"0,0255903972",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000398,Urbana,1,0,"0,031403799",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000399,Urbana,1,0,"0,04058020986",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,3,6,9,3,6
+355100905000400,Urbana,1,0,"0,02879449881",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000401,Urbana,1,0,"0,03271483266",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,4,3,7,4,3
+355100905000402,Urbana,1,0,"0,01034223302",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000533,Urbana,2,0,"0,3968030108",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000534,Urbana,1,0,"0,03027349464",Sudeste,São Paulo,São Vicente,355100905,3551009010,Catiapoã,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000001,Urbana,1,0,"0,0671194431",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,4,6,10,4,6
+355100905000002,Urbana,1,0,"0,06185376366",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000005,Urbana,1,0,"0,006468833094",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000006,Urbana,1,0,"0,0134408621",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000013,Urbana,1,0,"0,01763946643",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000014,Urbana,1,0,"0,08379330769",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000393,Urbana,1,0,"0,02128562831",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000424,Urbana,1,0,"0,0125874148",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000521,Urbana,1,0,"0,07365181629",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000522,Urbana,1,0,"0,01829635967",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000523,Urbana,1,0,"0,006916916661",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000524,Urbana,1,0,"0,01198507185",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000525,Urbana,1,0,"0,05118654993",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,9,0,9,9,0
+355100905000526,Urbana,1,0,"0,04414288584",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,12,0,12,12,0
+355100905000527,Urbana,1,0,"0,01577071978",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000528,Urbana,1,0,"0,0159703829",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000529,Urbana,1,0,"0,05457637358",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,0,3,3,0,3
+355100905000530,Urbana,1,0,"0,02850168905",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,9,0,9,9,0
+355100905000531,Urbana,1,0,"0,09272844304",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000538,Urbana,1,0,"0,005288641821",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000539,Urbana,1,0,"0,002628273734",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000540,Urbana,1,0,"0,005149179008",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000541,Urbana,1,0,"0,002578858048",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,15,0,15,15,0
+355100905000857,Urbana,1,0,"0,06748559955",Sudeste,São Paulo,São Vicente,355100905,3551009001,Centro,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000229,Urbana,1,0,"0,07617035375",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000230,Urbana,1,0,"0,06583770905",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000232,Urbana,1,0,"0,06993822093",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000233,Urbana,1,0,"0,1259008624",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000234,Urbana,1,0,"0,1252780111",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000235,Urbana,1,0,"0,1198019856",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000238,Urbana,1,0,"0,05940647396",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000240,Urbana,1,0,"0,02309577344",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000241,Urbana,1,0,"0,02274627505",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,4,4,0,4
+355100905000243,Urbana,1,0,"0,05188637142",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000244,Urbana,1,0,"0,04868973752",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000245,Urbana,1,0,"0,056839536",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000246,Urbana,1,0,"0,0612589221",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000247,Urbana,1,0,"0,04066895805",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000248,Urbana,1,0,"0,03660887196",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000249,Urbana,1,0,"0,04326365666",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000250,Urbana,1,1,"0,03249839644",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,35510090006,Dique do Pompeba,,,Baixada Santista/SP,0,0,0,0,0
+355100905000251,Urbana,1,1,"0,01665437989",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,35510090037,Dique do Piçarro,,,Baixada Santista/SP,0,0,0,0,0
+355100905000252,Urbana,1,0,"0,06768568749",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000253,Urbana,1,0,"0,08451788352",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000254,Urbana,1,0,"0,06744713861",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000255,Urbana,1,0,"0,04884021331",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000256,Urbana,1,0,"0,06305420805",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000257,Urbana,1,0,"0,0579986245",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000258,Urbana,1,0,"0,05113366625",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000259,Urbana,1,0,"0,06690295321",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000260,Urbana,1,0,"0,0645938107",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,5,3,8,5,3
+355100905000360,Urbana,1,0,"0,03573534815",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000361,Urbana,1,0,"0,1042505211",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000362,Urbana,1,0,"0,03031663401",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000363,Urbana,1,0,"0,03502304061",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,9,0,9,9,0
+355100905000364,Urbana,1,0,"0,04190328264",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000387,Urbana,1,1,"0,02146275895",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,35510090006,Dique do Pompeba,,,Baixada Santista/SP,0,0,0,0,0
+355100905000471,Urbana,1,0,"0,01953394237",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000472,Urbana,1,1,"0,01691172157",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,35510090024,Eduardo Dias Coelho,,,Baixada Santista/SP,0,0,0,0,0
+355100905000473,Urbana,1,0,"0,01001208835",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000474,Urbana,1,0,"0,0300345803",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000475,Urbana,1,0,"0,09436268494",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000476,Urbana,1,0,"0,04850466244",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000477,Urbana,1,0,"0,04867440311",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000478,Urbana,1,0,"0,03467130333",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000479,Urbana,1,1,"0,01492338352",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,35510090033,Dique do Fátima,,,Baixada Santista/SP,0,0,0,0,0
+355100905000481,Urbana,1,0,"0,05706504724",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000482,Urbana,1,0,"0,03076625862",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000483,Urbana,1,0,"0,04365333143",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000596,Urbana,1,0,"0,05642419995",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000597,Urbana,1,0,"0,04583294791",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000599,Urbana,1,0,"0,01024345661",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000600,Urbana,1,0,"0,00738049048",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000601,Urbana,1,0,"0,01310605227",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000602,Urbana,1,0,"0,004223990663",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000603,Urbana,1,0,"0,04200186438",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000604,Urbana,1,0,"0,008054920345",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000605,Urbana,1,0,"0,03090310107",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000753,Urbana,1,4,"0,01067196126",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,,,,,
+355100905000754,Urbana,1,4,"0,01299745243",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,,,,,
+355100905000755,Urbana,1,4,"0,008746710576",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,,,,,
+355100905000848,Urbana,2,4,"0,2156557131",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,,,,,
+355100905000848,Urbana,2,4,"0,2156557131",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,,,,,
+355100905000864,Urbana,2,4,"0,4401146132",Sudeste,São Paulo,São Vicente,355100905,3551009014,Cidade Náutica,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000171,Urbana,1,0,"0,03303107174",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000172,Urbana,1,0,"0,06535932884",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000173,Urbana,1,0,"0,05594833302",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000174,Urbana,1,0,"0,06654881638",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000175,Urbana,1,0,"0,0640982497",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000176,Urbana,1,0,"0,06917080477",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000177,Urbana,1,0,"0,08050538335",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000178,Urbana,1,0,"0,02584448024",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000179,Urbana,1,0,"0,04033229197",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000448,Urbana,1,0,"0,02694677986",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000449,Urbana,1,0,"0,008619377043",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000450,Urbana,1,1,"0,03450496947",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,35510090025,Fepasa,,,Baixada Santista/SP,0,0,0,0,0
+355100905000451,Urbana,1,0,"0,03794464764",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000452,Urbana,1,0,"0,0120516208",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000788,Urbana,1,1,"0,01510725383",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,0,0,0,0
+355100905000835,Urbana,1,0,"0,06263619737",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000836,Urbana,1,1,"0,01170975483",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000856,Urbana,1,0,"0,02996374808",Sudeste,São Paulo,São Vicente,355100905,3551009016,Esplanada dos Barreiros,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000106,Urbana,1,0,"0,01719705723",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000109,Urbana,1,0,"0,02047594711",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,9,0,9,9,0
+355100905000110,Urbana,1,0,"0,01518914867",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000111,Urbana,1,0,"0,01065117393",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000113,Urbana,1,0,"0,009193784325",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000114,Urbana,1,0,"0,006229954267",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000115,Urbana,1,0,"0,00661738843",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000116,Urbana,1,0,"0,004114591625",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000117,Urbana,1,0,"0,00329904496",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000118,Urbana,1,0,"0,01034137968",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,12,0,12,12,0
+355100905000119,Urbana,1,0,"0,008519006343",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,3,5,8,3,5
+355100905000120,Urbana,1,0,"0,002046784015",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000122,Urbana,1,0,"0,002463756034",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000124,Urbana,2,0,"0,2062053924",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000125,Urbana,1,0,"0,01394784065",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000126,Urbana,1,0,"0,01707106935",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000336,Urbana,1,0,"0,007793097375",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000422,Urbana,1,0,"0,01776880635",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000423,Urbana,1,0,"0,004095846917",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000563,Urbana,1,0,"0,01254674322",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000564,Urbana,1,0,"0,006053616775",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000565,Urbana,1,0,"0,008665812593",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000566,Urbana,1,0,"0,01275279025",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,9,0,9,9,0
+355100905000567,Urbana,1,0,"0,009636253301",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000568,Urbana,1,0,"0,003444169758",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000569,Urbana,1,0,"0,0106047813",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000570,Urbana,1,0,"0,008503975676",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000571,Urbana,1,0,"0,02197423055",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000572,Urbana,2,0,"0,053172856",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000573,Urbana,2,4,"0,122544669",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,,,,,
+355100905000574,Urbana,1,0,"0,006931385673",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000575,Urbana,1,0,"0,001985594185",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000576,Urbana,1,0,"0,002812225747",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000577,Urbana,1,0,"0,005080493426",Sudeste,São Paulo,São Vicente,355100905,3551009002,Gonzaguinha,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000292,Urbana,3,0,"0,07006974316",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000294,Urbana,3,0,"0,06325518367",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000296,Urbana,3,0,"0,05725244711",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000298,Urbana,3,0,"0,05769870976",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000299,Urbana,3,0,"0,07779352206",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000300,Urbana,3,0,"0,09114291841",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000301,Urbana,3,0,"0,04481577715",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000302,Urbana,3,0,"0,07053047903",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000303,Rural,8,0,"5,29183502",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000304,Urbana,3,0,"0,06333599334",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000517,Urbana,3,0,"0,04532162974",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000629,Urbana,3,0,"0,02133917675",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000630,Urbana,3,0,"0,03511252908",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000631,Urbana,3,0,"0,03591379097",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000632,Urbana,3,0,"0,02637981199",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000633,Urbana,3,0,"0,03027938797",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000634,Urbana,3,0,"0,03400486899",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,3551009006,Conjunto Residencial Humaitá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000668,Rural,8,4,"1,649505697",Sudeste,São Paulo,São Vicente,355100905,3551009020,Humaitá,,,,,,,Baixada Santista/SP,,,,,
+355100905000072,Urbana,1,0,"0,007739719938",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000073,Urbana,1,0,"0,01935108712",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000075,Urbana,1,0,"0,02039490068",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000077,Urbana,1,0,"0,01711380748",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,9,0,9,9,0
+355100905000078,Urbana,1,0,"0,01766076642",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000079,Urbana,1,0,"0,01753971934",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000080,Urbana,1,0,"0,04846388518",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,3,3,0,3
+355100905000082,Urbana,1,0,"0,01464206843",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000083,Urbana,1,0,"0,005450913166",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000084,Urbana,1,0,"0,005387485895",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000086,Urbana,1,0,"0,01355665044",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000088,Urbana,1,0,"0,004053504508",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000089,Urbana,1,0,"0,002549803381",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000535,Urbana,2,4,"0,506172504",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,,,,,
+355100905000536,Urbana,2,0,"0,1211997029",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000536,Urbana,2,0,"0,1211997029",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000537,Urbana,2,0,"0,08458760439",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000542,Urbana,1,0,"0,005504966762",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000543,Urbana,1,0,"0,005579811211",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000544,Urbana,1,0,"0,005351099877",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000545,Urbana,1,0,"0,01068421321",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000546,Urbana,1,0,"0,008465087551",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000760,Urbana,1,0,"0,004533028724",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000761,Urbana,1,0,"0,002845237528",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000762,Urbana,1,0,"0,00736952826",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000763,Urbana,1,0,"0,02038786653",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000837,Urbana,1,0,"0,04011106423",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000838,Urbana,1,1,"0,01188152184",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,35510090026,Morro do Asa Delta,,,Baixada Santista/SP,0,0,0,0,0
+355100905000852,Urbana,2,4,"0,5821612088",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,,,,,
+355100905000853,Urbana,2,4,"0,1141559074",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,,,,,Baixada Santista/SP,,,,,
+355100905000863,Urbana,1,1,"0,1543892399",Sudeste,São Paulo,São Vicente,355100905,3551009004,Itararé,,,35510090026,Morro do Asa Delta,,,Baixada Santista/SP,0,0,0,0,0
+355100905000132,Urbana,1,0,"0,06743321372",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000344,Urbana,1,0,"0,1005395577",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,8,4,12,8,4
+355100905000578,Urbana,1,0,"0,05712428781",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000580,Urbana,1,0,"0,03396659634",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000581,Urbana,1,0,"0,03948266496",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000583,Urbana,1,0,"0,03813929685",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000703,Urbana,1,0,"0,05693476108",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000736,Urbana,2,0,"0,2835746258",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000737,Urbana,1,0,"0,1532327896",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000738,Rural,7,5,"0,06180033457",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,355100900001,Aldeia Indígena Aldeia Tekua Paranapuã,Baixada Santista/SP,0,47,47,0,47
+355100905000750,Rural,8,4,"1,77987611",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,,,,,
+355100905000828,Urbana,1,0,"0,03444782298",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000829,Urbana,1,1,"0,009523131173",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,35510090047,Japuí,,,Baixada Santista/SP,0,0,0,0,0
+355100905000858,Rural,8,4,"0,850701168",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,,,,,
+355100905000859,Rural,8,4,"0,1341973372",Sudeste,São Paulo,São Vicente,355100905,3551009019,Japuí,,,,,,,Baixada Santista/SP,,,,,
+355100905000039,Urbana,1,0,"0,04730586071",Sudeste,São Paulo,São Vicente,355100905,3551009008,Jardim Guassu,,,,,,,Baixada Santista/SP,0,3,3,0,3
+355100905000040,Urbana,1,0,"0,05031432622",Sudeste,São Paulo,São Vicente,355100905,3551009008,Jardim Guassu,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000041,Urbana,1,1,"0,01559108431",Sudeste,São Paulo,São Vicente,355100905,3551009008,Jardim Guassu,,,35510090011,Miau,,,Baixada Santista/SP,0,0,0,0,0
+355100905000042,Urbana,1,0,"0,0375789233",Sudeste,São Paulo,São Vicente,355100905,3551009008,Jardim Guassu,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000043,Urbana,1,0,"0,04578526442",Sudeste,São Paulo,São Vicente,355100905,3551009008,Jardim Guassu,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000044,Urbana,1,0,"0,0633258736",Sudeste,São Paulo,São Vicente,355100905,3551009008,Jardim Guassu,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000405,Urbana,1,0,"0,04861018542",Sudeste,São Paulo,São Vicente,355100905,3551009008,Jardim Guassu,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000728,Urbana,1,1,"0,01416604502",Sudeste,São Paulo,São Vicente,355100905,3551009008,Jardim Guassu,,,35510090011,Miau,,,Baixada Santista/SP,0,0,0,0,0
+355100905000729,Urbana,1,0,"0,02091210993",Sudeste,São Paulo,São Vicente,355100905,3551009008,Jardim Guassu,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000054,Urbana,1,0,"0,01791755261",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000055,Urbana,1,0,"0,02411647027",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000056,Urbana,1,0,"0,05802704017",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,,,,,Baixada Santista/SP,16,0,16,16,0
+355100905000343,Urbana,1,0,"0,04376756728",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000410,Urbana,1,0,"0,03841219746",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000411,Urbana,1,0,"0,0133549005",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000412,Urbana,1,0,"0,005602040764",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000414,Urbana,1,4,"0,04868021529",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,,,,,Baixada Santista/SP,,,,,
+355100905000773,Urbana,1,1,"0,0170315514",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,35510090040,Núcleo Carrefour,,,Baixada Santista/SP,0,0,0,0,0
+355100905000776,Urbana,1,0,"0,06108029732",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000777,Urbana,1,1,"0,0238337763",Sudeste,São Paulo,São Vicente,355100905,3551009006,Jardim Independência,,,35510090046,Bananal,,,Baixada Santista/SP,0,0,0,0,0
+355100905000262,Urbana,3,1,"0,04422616605",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090028,Vila Ponte Nova,,,Baixada Santista/SP,0,0,0,0,0
+355100905000263,Urbana,3,1,"0,04372283426",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090028,Vila Ponte Nova,,,Baixada Santista/SP,0,0,0,0,0
+355100905000264,Urbana,3,1,"0,02557764467",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090028,Vila Ponte Nova,,,Baixada Santista/SP,0,0,0,0,0
+355100905000266,Urbana,3,1,"0,05891311953",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090019,Jardim Rio Negro,,,Baixada Santista/SP,0,0,0,0,0
+355100905000269,Urbana,3,1,"0,0302733217",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000270,Urbana,3,1,"0,09522951157",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000271,Urbana,3,1,"0,06120989119",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,4,4,0,4
+355100905000276,Urbana,3,1,"0,0499854639",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000277,Urbana,3,1,"0,0473205288",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000484,Urbana,3,1,"0,04547652522",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090028,Vila Ponte Nova,,,Baixada Santista/SP,0,0,0,0,0
+355100905000486,Urbana,3,1,"0,03436361162",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090028,Vila Ponte Nova,,,Baixada Santista/SP,0,0,0,0,0
+355100905000489,Urbana,3,1,"0,03659323917",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000490,Urbana,3,1,"0,0395652116",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090035,Quarentenário Particular,,,Baixada Santista/SP,0,0,0,0,0
+355100905000491,Urbana,3,1,"0,02020715506",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000492,Urbana,3,1,"0,03238572101",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090035,Quarentenário Particular,,,Baixada Santista/SP,0,0,0,0,0
+355100905000494,Urbana,3,1,"0,1015230619",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000510,Urbana,3,1,"0,05289317053",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,3,0,3,3,0
+355100905000511,Urbana,3,1,"0,04975833439",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090028,Vila Ponte Nova,,,Baixada Santista/SP,0,0,0,0,0
+355100905000513,Urbana,3,1,"0,03644478471",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090035,Quarentenário Particular,,,Baixada Santista/SP,0,0,0,0,0
+355100905000514,Urbana,3,1,"0,06471305103",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090035,Quarentenário Particular,,,Baixada Santista/SP,0,0,0,0,0
+355100905000516,Urbana,3,1,"0,0103944219",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090042,Rua 13,,,Baixada Santista/SP,0,0,0,0,0
+355100905000607,Urbana,3,1,"0,05716177868",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090019,Jardim Rio Negro,,,Baixada Santista/SP,0,0,0,0,0
+355100905000608,Urbana,3,1,"0,04981201174",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090019,Jardim Rio Negro,,,Baixada Santista/SP,0,6,6,0,6
+355100905000609,Urbana,3,1,"0,07852123224",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090028,Vila Ponte Nova,,,Baixada Santista/SP,0,0,0,0,0
+355100905000611,Urbana,3,1,"0,03045107053",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090019,Jardim Rio Negro,,,Baixada Santista/SP,0,0,0,0,0
+355100905000612,Urbana,3,1,"0,05566963619",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090019,Jardim Rio Negro,,,Baixada Santista/SP,7,0,7,7,0
+355100905000613,Urbana,3,1,"0,02302162449",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090042,Rua 13,,,Baixada Santista/SP,0,0,0,0,0
+355100905000614,Urbana,3,1,"0,05540457234",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090035,Quarentenário Particular,,,Baixada Santista/SP,0,0,0,0,0
+355100905000615,Urbana,3,1,"0,02340062341",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000616,Urbana,3,1,"0,02543549827",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000664,Urbana,3,1,"0,04533442922",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090019,Jardim Rio Negro,,,Baixada Santista/SP,0,0,0,0,0
+355100905000665,Urbana,3,1,"0,0255182843",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090019,Jardim Rio Negro,,,Baixada Santista/SP,0,0,0,0,0
+355100905000666,Urbana,3,1,"0,03206721218",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090035,Quarentenário Particular,,,Baixada Santista/SP,0,0,0,0,0
+355100905000667,Urbana,3,1,"0,03834103193",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090035,Quarentenário Particular,,,Baixada Santista/SP,3,0,3,3,0
+355100905000672,Urbana,3,1,"0,04329157456",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090042,Rua 13,,,Baixada Santista/SP,0,0,0,0,0
+355100905000674,Rural,8,0,"4,641715774",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000675,Urbana,3,1,"0,08449803615",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090042,Rua 13,,,Baixada Santista/SP,0,0,0,0,0
+355100905000719,Urbana,3,1,"0,09440198449",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000722,Urbana,3,1,"0,03410107223",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000723,Urbana,3,1,"0,02771705325",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,3,0,3,3,0
+355100905000769,Rural,8,4,"6,258039967",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,,,,,
+355100905000810,Urbana,3,1,"0,04497046307",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090028,Vila Ponte Nova,,,Baixada Santista/SP,0,0,0,0,0
+355100905000841,Urbana,3,1,"0,2156251725",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000842,Urbana,3,1,"0,1946325741",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,3551009002,Jardim Irmã Dolores,35510090031,Quarentenário Público,,,Baixada Santista/SP,0,0,0,0,0
+355100905000843,Rural,8,4,"0,1921469404",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,,,,,
+355100905000846,Rural,8,4,"3,503205841",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,,,,,
+355100905000846,Rural,8,4,"3,503205841",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,,,,,
+355100905000846,Rural,8,4,"3,503205841",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,,,,,
+355100905000846,Rural,8,4,"3,503205841",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,,,,,
+355100905000846,Rural,8,4,"3,503205841",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,,,,,
+355100905000846,Rural,8,4,"3,503205841",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,,,,,
+355100905000846,Rural,8,4,"3,503205841",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,,,,,
+355100905000846,Rural,8,4,"3,503205841",Sudeste,São Paulo,São Vicente,355100905,3551009031,Jardim Irmã Dolores,,,,,,,Baixada Santista/SP,,,,,
+355100905000283,Rural,8,4,"1,771596423",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,,,,,,,Baixada Santista/SP,,,,,
+355100905000284,Urbana,3,6,"0,1050038621",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,4,3,7,4,3
+355100905000285,Urbana,3,6,"0,08606753853",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000307,Urbana,3,1,"0,09515978319",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,0,0,0,0
+355100905000308,Urbana,3,1,"0,07030356146",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,3,3,0,3
+355100905000309,Urbana,3,1,"0,06154394708",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,0,0,0,0
+355100905000310,Urbana,3,0,"0,06440833081",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000312,Urbana,3,0,"0,05922561637",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000313,Urbana,3,0,"0,08140800427",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000372,Urbana,3,1,"0,07040469046",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,4,4,0,4
+355100905000373,Urbana,3,1,"0,0499067608",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,0,0,0,0
+355100905000375,Urbana,3,0,"0,07488130747",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000498,Urbana,3,1,"0,05055930902",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,6,6,0,6
+355100905000499,Urbana,3,1,"0,04707972737",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,3,3,0,3
+355100905000500,Urbana,3,1,"0,0405112336",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,0,0,0,0
+355100905000635,Urbana,3,0,"0,0485726091",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000636,Urbana,3,0,"0,03665730694",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000637,Urbana,3,0,"0,05048042156",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000638,Urbana,3,0,"0,04944188709",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000639,Urbana,3,0,"0,0699547047",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000676,Urbana,3,1,"0,05233521585",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,0,0,0,0
+355100905000677,Urbana,3,1,"0,03442932617",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,0,0,0,0
+355100905000678,Urbana,3,1,"0,02025611348",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,0,0,0,0
+355100905000739,Urbana,3,0,"0,03736031597",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000740,Urbana,3,0,"0,05036931958",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000741,Urbana,3,0,"0,04805088846",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000742,Urbana,3,0,"0,03757201281",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000758,Rural,8,4,"2,897626384",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,,,,,,,Baixada Santista/SP,,,,,
+355100905000759,Urbana,3,6,"0,1353377705",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000814,Urbana,3,1,"0,01057000642",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,35510090029,Jardim Rio Branco,,,Baixada Santista/SP,0,0,0,0,0
+355100905000815,Urbana,3,0,"0,0272545584",Sudeste,São Paulo,São Vicente,355100905,3551009023,Jardim Rio Branco,3551009004,Jardim Rio Branco,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000199,Urbana,1,0,"0,03904575553",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000200,Urbana,1,0,"0,09098775887",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000201,Urbana,1,0,"0,0926444176",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000202,Urbana,1,0,"0,03483470986",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000203,Urbana,1,0,"0,05055657593",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000204,Urbana,1,0,"0,05865599572",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000205,Urbana,1,1,"0,05980532025",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090004,Dique do Caixeta,,,Baixada Santista/SP,0,0,0,0,0
+355100905000207,Urbana,1,0,"0,04344046311",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000208,Urbana,1,0,"0,05769874505",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000210,Urbana,1,1,"0,05664534916",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090020,Batuíra,,,Baixada Santista/SP,0,0,0,0,0
+355100905000211,Urbana,1,1,"0,07636883637",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090002,Sambaiatuba,,,Baixada Santista/SP,0,0,0,0,0
+355100905000214,Urbana,1,0,"0,04972764834",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000215,Urbana,1,0,"0,04584498511",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000216,Urbana,1,0,"0,06862538248",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000338,Urbana,1,1,"0,05674926774",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090004,Dique do Caixeta,,,Baixada Santista/SP,0,0,0,0,0
+355100905000339,Urbana,1,1,"0,04795542242",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090002,Sambaiatuba,,,Baixada Santista/SP,0,0,0,0,0
+355100905000351,Urbana,1,0,"0,04486637504",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000380,Urbana,1,1,"0,03900065781",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090002,Sambaiatuba,,,Baixada Santista/SP,0,0,0,0,0
+355100905000381,Urbana,1,1,"0,01927784056",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090002,Sambaiatuba,,,Baixada Santista/SP,0,0,0,0,0
+355100905000397,Urbana,1,1,"0,01836960143",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090011,Miau,,,Baixada Santista/SP,0,0,0,0,0
+355100905000462,Urbana,1,0,"0,05464563795",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000463,Urbana,1,0,"0,03732922985",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000465,Urbana,1,1,"0,01485350344",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090021,Bugre,,,Baixada Santista/SP,0,0,0,0,0
+355100905000466,Urbana,1,0,"0,04480277526",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000592,Urbana,1,0,"0,02903439102",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000593,Urbana,1,0,"0,02898469943",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,4,4,8,4,4
+355100905000656,Urbana,1,0,"0,04890270346",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000708,Urbana,2,0,"0,3163891823",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000709,Urbana,1,0,"0,01438048258",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000716,Urbana,1,1,"0,03741981933",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090021,Bugre,,,Baixada Santista/SP,0,0,0,0,0
+355100905000717,Urbana,1,1,"0,01609973107",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090021,Bugre,,,Baixada Santista/SP,0,0,0,0,0
+355100905000718,Urbana,1,1,"0,04125346908",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090021,Bugre,,,Baixada Santista/SP,0,0,0,0,0
+355100905000765,Urbana,1,0,"0,03252066204",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000783,Urbana,1,0,"0,05087926139",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,6,6,0,6
+355100905000785,Urbana,1,1,"0,01885642426",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090020,Batuíra,,,Baixada Santista/SP,0,0,0,0,0
+355100905000799,Urbana,1,1,"0,01937096086",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090022,Charme,,,Baixada Santista/SP,0,0,0,0,0
+355100905000801,Urbana,1,0,"0,009390819992",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000802,Urbana,1,1,"0,006655270527",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090022,Charme,,,Baixada Santista/SP,0,0,0,0,0
+355100905000803,Urbana,1,1,"0,03778862244",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090022,Charme,,,Baixada Santista/SP,0,0,0,0,0
+355100905000812,Urbana,1,1,"0,0388233586",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090002,Sambaiatuba,,,Baixada Santista/SP,0,0,0,0,0
+355100905000813,Urbana,1,1,"0,02100131206",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090049,Cidade de Deus,,,Baixada Santista/SP,0,0,0,0,0
+355100905000822,Urbana,1,0,"0,02871202367",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000823,Urbana,1,1,"0,01044657988",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090022,Charme,,,Baixada Santista/SP,0,0,0,0,0
+355100905000830,Urbana,1,0,"0,03628183793",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000831,Urbana,1,1,"0,02645691142",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090021,Bugre,,,Baixada Santista/SP,0,0,0,0,0
+355100905000832,Urbana,1,1,"0,006452134707",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090002,Sambaiatuba,,,Baixada Santista/SP,0,0,0,0,0
+355100905000833,Urbana,1,1,"0,005685900406",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090021,Bugre,,,Baixada Santista/SP,0,0,0,0,0
+355100905000834,Urbana,2,4,"0,08288127861",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,,,,,
+355100905000840,Urbana,1,1,"0,008954914449",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,35510090004,Dique do Caixeta,,,Baixada Santista/SP,0,0,0,0,0
+355100905000847,Urbana,1,0,"0,1047117332",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000854,Urbana,1,0,"0,03516648094",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000855,Urbana,1,0,"0,02581788247",Sudeste,São Paulo,São Vicente,355100905,3551009011,Jóckey Club,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000320,Urbana,3,0,"0,05105127483",Sudeste,São Paulo,São Vicente,355100905,3551009025,Nova São Vicente,3551009005,Nova São Vicente,,,,,Baixada Santista/SP,0,3,3,0,3
+355100905000322,Urbana,3,0,"0,08311207472",Sudeste,São Paulo,São Vicente,355100905,3551009025,Nova São Vicente,3551009005,Nova São Vicente,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000503,Urbana,3,0,"0,05030803485",Sudeste,São Paulo,São Vicente,355100905,3551009025,Nova São Vicente,3551009005,Nova São Vicente,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000504,Urbana,3,1,"0,004130332722",Sudeste,São Paulo,São Vicente,355100905,3551009025,Nova São Vicente,3551009005,Nova São Vicente,35510090034,Vila Nova São Vicente B,,,Baixada Santista/SP,0,0,0,0,0
+355100905000771,Urbana,3,1,"0,02570449995",Sudeste,São Paulo,São Vicente,355100905,3551009025,Nova São Vicente,3551009005,Nova São Vicente,35510090034,Vila Nova São Vicente B,,,Baixada Santista/SP,0,0,0,0,0
+355100905000772,Urbana,3,4,"0,01623168762",Sudeste,São Paulo,São Vicente,355100905,3551009025,Nova São Vicente,3551009005,Nova São Vicente,,,,,Baixada Santista/SP,,,,,
+355100905000793,Urbana,3,1,"0,01373562948",Sudeste,São Paulo,São Vicente,355100905,3551009025,Nova São Vicente,3551009005,Nova São Vicente,35510090027,Vila Nova São Vicente A,,,Baixada Santista/SP,0,0,0,0,0
+355100905000820,Urbana,3,1,"0,03901835074",Sudeste,São Paulo,São Vicente,355100905,3551009025,Nova São Vicente,3551009005,Nova São Vicente,35510090034,Vila Nova São Vicente B,,,Baixada Santista/SP,0,0,0,0,0
+355100905000821,Urbana,3,0,"0,02445452531",Sudeste,São Paulo,São Vicente,355100905,3551009025,Nova São Vicente,3551009005,Nova São Vicente,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000844,Urbana,3,0,"0,05776655018",Sudeste,São Paulo,São Vicente,355100905,3551009025,Nova São Vicente,3551009005,Nova São Vicente,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000133,Urbana,1,0,"0,05921697762",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,10,0,10,10,0
+355100905000134,Urbana,1,0,"0,03454719655",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000135,Urbana,1,0,"0,07515132025",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000136,Urbana,1,0,"0,0391200343",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000138,Urbana,1,1,"0,02551241372",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,0,0,0,0
+355100905000140,Urbana,1,0,"0,03878133997",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,5,6,11,5,6
+355100905000141,Urbana,1,0,"0,03246178607",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000142,Urbana,1,1,"0,01429212053",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,0,0,0,0
+355100905000145,Urbana,1,1,"0,0150901201",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,0,0,0,0
+355100905000146,Urbana,1,0,"0,04478916766",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000147,Urbana,1,0,"0,03458592828",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000148,Urbana,1,0,"0,04327649023",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,3,3,6,3,3
+355100905000345,Urbana,1,0,"0,08150454381",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,10,0,10,10,0
+355100905000427,Urbana,1,0,"0,05887384041",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000428,Urbana,1,0,"0,0584327557",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,7,3,10,7,3
+355100905000429,Urbana,1,0,"0,03975959879",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000432,Urbana,1,1,"0,02461947481",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,0,0,0,0
+355100905000433,Urbana,1,0,"0,00714707554",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000434,Urbana,1,0,"0,04490632756",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000435,Urbana,1,1,"0,0229597637",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,4,4,0,4
+355100905000436,Urbana,1,0,"0,0334295247",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,9,0,9,9,0
+355100905000586,Urbana,1,1,"0,007666145179",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,0,0,0,0
+355100905000587,Urbana,1,1,"0,02442809793",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,0,0,0,0
+355100905000588,Urbana,1,0,"0,1239462926",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000589,Urbana,1,0,"0,1958714759",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,0,3,3,0,3
+355100905000730,Urbana,1,1,"0,01244975465",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,0,0,0,0
+355100905000731,Urbana,1,0,"0,01941542447",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000732,Urbana,1,1,"0,004878903093",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,0,0,0,0
+355100905000733,Urbana,1,0,"0,06950280118",Sudeste,São Paulo,São Vicente,355100905,3551009018,Parque Bitaru,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000279,Urbana,3,0,"0,06041740809",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000280,Urbana,3,1,"0,05660776341",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,35510090018,Vila Feliz,,,Baixada Santista/SP,0,0,0,0,0
+355100905000286,Urbana,3,0,"0,08902347738",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000290,Urbana,3,0,"0,06764838806",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000291,Urbana,3,0,"0,06446904077",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,11,0,11,11,0
+355100905000365,Urbana,3,0,"0,06387351316",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000495,Urbana,3,0,"0,05761450023",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000617,Urbana,3,0,"0,03935714158",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000618,Urbana,3,0,"0,05535797961",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000619,Urbana,3,0,"0,03954585599",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000620,Urbana,3,0,"0,04147218886",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,10,0,10,10,0
+355100905000621,Urbana,3,0,"0,0452522011",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000622,Urbana,3,0,"0,04499839452",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000623,Urbana,3,0,"0,04417455574",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000624,Urbana,3,0,"0,03120757204",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000625,Urbana,3,0,"0,05291151589",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000626,Urbana,3,0,"0,04160530023",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000669,Urbana,3,0,"0,07110230139",Sudeste,São Paulo,São Vicente,355100905,3551009021,Parque Continental,3551009003,Parque Continental,,,,,Baixada Santista/SP,0,4,4,0,4
+355100905000323,Urbana,3,0,"0,04715532475",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000324,Urbana,3,0,"0,07838351394",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000326,Urbana,3,0,"0,05907455315",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000327,Urbana,3,0,"0,08559902634",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000328,Rural,8,0,"2,055899352",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000333,Urbana,3,0,"0,07624581325",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,4,4,0,4
+355100905000334,Urbana,3,0,"0,06924249918",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000335,Urbana,3,0,"0,03867890987",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000507,Urbana,3,0,"0,05028630123",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,3,3,0,3
+355100905000508,Urbana,3,0,"0,04441273519",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000641,Urbana,3,0,"0,03306377262",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000642,Urbana,3,0,"0,04889415663",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000644,Urbana,3,0,"0,0958834876",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000645,Urbana,3,0,"0,05250365387",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000646,Urbana,3,0,"0,04268283127",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,5,5,0,5
+355100905000647,Urbana,3,0,"0,05392093783",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,4,4,0,4
+355100905000648,Urbana,3,0,"0,03882354839",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000649,Urbana,3,0,"0,04312575282",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,5,5,0,5
+355100905000650,Urbana,3,0,"0,05821117601",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000651,Urbana,3,0,"0,06637915721",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,3,3,0,3
+355100905000679,Urbana,3,0,"0,03967280177",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000680,Urbana,3,0,"0,04168702998",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000766,Urbana,3,4,"0,03559592789",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000767,Urbana,3,1,"0,01123611413",Sudeste,São Paulo,São Vicente,355100905,3551009024,Parque das Bandeiras,3551009007,Parque das Bandeiras,35510090041,Pátio Ferroviário,,,Baixada Santista/SP,0,0,0,0,0
+355100905000188,Urbana,1,0,"0,04154001941",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000189,Urbana,1,0,"0,06456726154",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,5,3,8,5,3
+355100905000190,Urbana,1,0,"0,04609025443",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000191,Urbana,1,0,"0,04051968529",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000192,Urbana,1,0,"0,04882125037",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,3,4,7,3,4
+355100905000193,Urbana,1,0,"0,08594558329",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000194,Urbana,1,0,"0,06619381859",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000195,Urbana,1,0,"0,03528845787",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000196,Urbana,1,0,"0,04641772765",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000197,Urbana,1,0,"0,06449539196",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000198,Urbana,1,0,"0,06205090891",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000457,Urbana,1,0,"0,03350775814",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000459,Urbana,1,1,"0,01333875876",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,35510090023,Comeca,,,Baixada Santista/SP,0,0,0,0,0
+355100905000460,Urbana,1,0,"0,03451998794",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000461,Urbana,1,0,"0,03948981015",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000861,Urbana,1,0,"0,03630002424",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000862,Urbana,1,1,"0,009568485733",Sudeste,São Paulo,São Vicente,355100905,3551009012,Parque São Vicente,,,35510090048,Vila São Bernardo (DNOS),,,Baixada Santista/SP,0,0,0,0,0
+355100905000367,Urbana,3,0,"0,01039384615",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000368,Urbana,3,0,"0,009093170366",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000370,Urbana,3,0,"0,008448365979",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000371,Urbana,3,0,"0,008137706167",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000658,Urbana,3,0,"0,1225780974",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000659,Urbana,3,0,"0,06953907677",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000660,Urbana,3,0,"0,008929887033",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000661,Urbana,3,0,"0,008024398173",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000662,Urbana,3,0,"0,071796681",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000663,Urbana,3,0,"0,07335035159",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000670,Urbana,3,0,"0,07374572171",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,4,0,4,4,0
+355100905000671,Urbana,3,0,"0,03733603742",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009008,Samaritá,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000683,Urbana,3,1,"0,05694647652",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000684,Urbana,3,1,"0,08602045844",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000685,Urbana,3,1,"0,04072542367",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000686,Urbana,3,1,"0,07452775963",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000687,Urbana,3,1,"0,2004175119",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000688,Urbana,3,1,"0,05530724045",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000689,Urbana,3,1,"0,1090528277",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000690,Urbana,3,1,"0,1462525039",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000691,Rural,8,4,"0,1339209732",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,,,,,,,Baixada Santista/SP,,,,,
+355100905000692,Urbana,3,1,"0,09564124904",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000693,Urbana,3,1,"0,06075053491",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000694,Urbana,3,1,"0,09063316613",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,3551009009,Vila Ema,35510090038,Jardim Novo Samaritá (Fazendinha),,,Baixada Santista/SP,0,0,0,0,0
+355100905000839,Rural,8,0,"2,23378111",Sudeste,São Paulo,São Vicente,355100905,3551009027,Samarita,,,,,,,Baixada Santista/SP,,,,,
+355100905000376,Urbana,3,0,"0,01088891114",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,3551009009,Vila Ema,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000377,Urbana,3,0,"0,01189560396",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,3551009009,Vila Ema,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000681,Urbana,3,0,"0,06850784969",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,3551009009,Vila Ema,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000682,Urbana,3,0,"0,02605001276",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,3551009009,Vila Ema,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000697,Urbana,3,0,"0,03076059339",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,3551009009,Vila Ema,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000707,Urbana,3,0,"0,08347348698",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,3551009009,Vila Ema,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000816,Urbana,3,1,"0,05323001582",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,3551009009,Vila Ema,35510090030,Vila Iolanda,,,Baixada Santista/SP,0,0,0,0,0
+355100905000817,Urbana,3,1,"0,01920595012",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,3551009009,Vila Ema,35510090034,Vila Nova São Vicente B,,,Baixada Santista/SP,0,0,0,0,0
+355100905000818,Urbana,3,0,"0,08937972514",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,3551009009,Vila Ema,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000819,Urbana,3,1,"0,005415644599",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,3551009009,Vila Ema,35510090034,Vila Nova São Vicente B,,,Baixada Santista/SP,0,0,0,0,0
+355100905000845,Rural,8,4,"0,1078704054",Sudeste,São Paulo,São Vicente,355100905,3551009026,Vila Ema,,,,,,,Baixada Santista/SP,,,,,
+355100905000150,Urbana,1,1,"0,02125277722",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000151,Urbana,1,1,"0,01253422644",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000152,Urbana,1,1,"0,02537702768",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000153,Urbana,1,1,"0,02622534318",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000154,Urbana,1,1,"0,03409658596",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000156,Urbana,1,1,"0,02954508022",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090007,CDHU,,,Baixada Santista/SP,0,0,0,0,0
+355100905000157,Urbana,1,1,"0,02792560308",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090007,CDHU,,,Baixada Santista/SP,0,0,0,0,0
+355100905000158,Urbana,1,1,"0,04528916697",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090007,CDHU,,,Baixada Santista/SP,0,0,0,0,0
+355100905000159,Urbana,1,1,"0,02326219136",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090012,Canal do Meio,,,Baixada Santista/SP,0,0,0,0,0
+355100905000160,Urbana,1,1,"0,03370257199",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090012,Canal do Meio,,,Baixada Santista/SP,0,0,0,0,0
+355100905000161,Urbana,1,1,"0,03669358938",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090012,Canal do Meio,,,Baixada Santista/SP,0,3,3,0,3
+355100905000162,Urbana,1,1,"0,02706394506",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090012,Canal do Meio,,,Baixada Santista/SP,0,0,0,0,0
+355100905000163,Urbana,1,0,"0,0472753715",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000165,Urbana,1,0,"0,03615565756",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000167,Urbana,1,0,"0,03479720746",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000168,Urbana,1,0,"0,05782641797",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000169,Urbana,1,0,"0,04553567954",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000337,Urbana,1,1,"0,02332588509",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000346,Urbana,1,0,"0,02937374736",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000348,Urbana,1,1,"0,04863742748",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090007,CDHU,,,Baixada Santista/SP,0,0,0,0,0
+355100905000382,Urbana,1,1,"0,03641075957",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090007,CDHU,,,Baixada Santista/SP,0,5,5,0,5
+355100905000383,Urbana,1,1,"0,02180293989",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090007,CDHU,,,Baixada Santista/SP,0,0,0,0,0
+355100905000384,Urbana,1,1,"0,01613338237",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090007,CDHU,,,Baixada Santista/SP,0,0,0,0,0
+355100905000385,Urbana,1,1,"0,02224726278",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090007,CDHU,,,Baixada Santista/SP,0,0,0,0,0
+355100905000430,Urbana,2,4,"0,03906682784",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,,,,,
+355100905000431,Urbana,1,1,"0,01189450628",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090009,Rio da Avó,,,Baixada Santista/SP,0,0,0,0,0
+355100905000437,Urbana,1,1,"0,01815650336",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000438,Urbana,1,1,"0,03437548968",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000439,Urbana,1,1,"0,01764618273",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,3,3,0,3
+355100905000440,Urbana,1,1,"0,02069136174",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090007,CDHU,,,Baixada Santista/SP,0,0,0,0,0
+355100905000441,Urbana,1,1,"0,03769876108",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090012,Canal do Meio,,,Baixada Santista/SP,0,0,0,0,0
+355100905000442,Urbana,1,1,"0,02653408251",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090012,Canal do Meio,,,Baixada Santista/SP,0,0,0,0,0
+355100905000443,Urbana,1,0,"0,04337453247",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000445,Urbana,1,0,"0,03903990574",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000446,Urbana,1,0,"0,03437297898",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000509,Urbana,1,1,"0,01687466078",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000590,Urbana,1,0,"0,03126311208",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000653,Urbana,1,1,"0,06305886262",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090012,Canal do Meio,,,Baixada Santista/SP,0,0,0,0,0
+355100905000712,Urbana,1,0,"0,02785434115",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000713,Urbana,1,0,"0,0301533931",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000714,Urbana,1,1,"0,01714741005",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090012,Canal do Meio,,,Baixada Santista/SP,0,0,0,0,0
+355100905000715,Urbana,1,1,"0,04508254144",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090007,CDHU,,,Baixada Santista/SP,0,0,0,0,0
+355100905000743,Urbana,1,0,"0,0362337544",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000744,Urbana,1,0,"0,03618522825",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000789,Urbana,1,1,"0,01398212101",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090008,Saquaré,,,Baixada Santista/SP,0,0,0,0,0
+355100905000795,Urbana,1,1,"0,0276191844",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,35510090039,Morar Melhor,,,Baixada Santista/SP,0,0,0,0,0
+355100905000798,Urbana,1,0,"0,02280145915",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000849,Urbana,1,0,"0,03772053937",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000851,Urbana,1,0,"0,03011234001",Sudeste,São Paulo,São Vicente,355100905,3551009017,Vila Margarida,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000030,Urbana,1,0,"0,08000444827",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,12,0,12,12,0
+355100905000031,Urbana,1,0,"0,05294746255",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,14,0,14,14,0
+355100905000032,Urbana,1,0,"0,06101301853",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000033,Urbana,1,0,"0,05228560721",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000034,Urbana,1,2,"0,2332037928",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000035,Urbana,1,0,"0,04915836284",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,7,4,11,7,4
+355100905000036,Urbana,1,0,"0,05125691414",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000037,Urbana,1,0,"0,01687876314",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000038,Urbana,1,0,"0,03763924233",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000342,Urbana,1,0,"0,04735006433",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000403,Urbana,1,0,"0,03774329221",Sudeste,São Paulo,São Vicente,355100905,3551009009,Vila Melo,,,,,,,Baixada Santista/SP,10,0,10,10,0
+355100905000219,Urbana,1,0,"0,05382884545",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000220,Urbana,1,0,"0,07032564699",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000221,Urbana,1,0,"0,04822257311",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000222,Urbana,1,0,"0,07275010808",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000226,Urbana,1,0,"0,04805113166",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000227,Urbana,1,0,"0,05743281346",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000228,Urbana,1,0,"0,07421669211",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000359,Urbana,1,0,"0,04023259811",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000467,Urbana,1,0,"0,04506010743",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000468,Urbana,1,1,"0,01022502815",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,35510090033,Dique do Fátima,,,Baixada Santista/SP,0,0,0,0,0
+355100905000469,Urbana,1,0,"0,03641418504",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000470,Urbana,1,1,"0,003119624279",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,35510090023,Comeca,,,Baixada Santista/SP,0,0,0,0,0
+355100905000480,Urbana,1,1,"0,03589804092",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,35510090037,Dique do Piçarro,,,Baixada Santista/SP,0,0,0,0,0
+355100905000594,Urbana,1,0,"0,03469929311",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000595,Urbana,1,0,"0,02447633047",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000726,Urbana,1,1,"0,009853082254",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,35510090033,Dique do Fátima,,,Baixada Santista/SP,0,0,0,0,0
+355100905000727,Urbana,1,0,"0,0587954645",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000826,Urbana,1,0,"0,01944927691",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000827,Urbana,1,1,"0,006365620377",Sudeste,São Paulo,São Vicente,355100905,3551009013,Vila Nossa Senhora de Fátima,,,35510090033,Dique do Fátima,,,Baixada Santista/SP,0,0,0,0,0
+355100905000627,Urbana,3,1,"0,02983542601",Sudeste,São Paulo,São Vicente,355100905,3551009029,Vila Nova Mariana,3551009010,Vila Nova Mariana,35510090014,Vila Nova Mariana,,,Baixada Santista/SP,0,0,0,0,0
+355100905000628,Urbana,3,1,"0,04091351778",Sudeste,São Paulo,São Vicente,355100905,3551009029,Vila Nova Mariana,3551009010,Vila Nova Mariana,35510090014,Vila Nova Mariana,,,Baixada Santista/SP,0,0,0,0,0
+355100905000791,Urbana,3,4,"0,01401937363",Sudeste,São Paulo,São Vicente,355100905,3551009029,Vila Nova Mariana,3551009010,Vila Nova Mariana,,,,,Baixada Santista/SP,,,,,
+355100905000792,Urbana,3,1,"0,01200960867",Sudeste,São Paulo,São Vicente,355100905,3551009029,Vila Nova Mariana,3551009010,Vila Nova Mariana,35510090014,Vila Nova Mariana,,,Baixada Santista/SP,0,0,0,0,0
+355100905000045,Urbana,1,0,"0,03192780751",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,5,3,8,5,3
+355100905000046,Urbana,1,0,"0,04602904266",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000047,Urbana,1,0,"0,0465268279",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,4,7,11,4,7
+355100905000048,Urbana,1,0,"0,03681522154",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000049,Urbana,1,0,"0,03031287928",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000050,Urbana,1,0,"0,0481510345",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000051,Urbana,1,0,"0,05331677534",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000052,Urbana,1,0,"0,04910473769",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000053,Urbana,1,0,"0,07811784089",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000406,Urbana,1,0,"0,0340197873",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000407,Urbana,1,0,"0,03648310508",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,8,0,8,8,0
+355100905000409,Urbana,1,0,"0,04754100105",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000654,Urbana,1,0,"0,01775715688",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,0,9,9,0,9
+355100905000655,Urbana,1,0,"0,04125758567",Sudeste,São Paulo,São Vicente,355100905,3551009007,Vila São Jorge,,,,,,,Baixada Santista/SP,4,3,7,4,3
+355100905000063,Urbana,1,0,"0,04407505229",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000064,Urbana,1,0,"0,04201592981",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000065,Urbana,1,0,"0,03871131049",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000066,Urbana,1,0,"0,04121105814",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000067,Urbana,1,0,"0,04124089629",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,0,5,5,0,5
+355100905000068,Urbana,1,0,"0,06066126865",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,6,0,6,6,0
+355100905000069,Urbana,1,0,"0,04152019571",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000070,Urbana,1,0,"0,02739444915",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,3,0,3,3,0
+355100905000416,Urbana,1,0,"0,02820040378",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,7,0,7,7,0
+355100905000417,Urbana,1,0,"0,03716651109",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,5,0,5,5,0
+355100905000418,Urbana,1,0,"0,0198578585",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000419,Urbana,1,0,"0,02484338819",Sudeste,São Paulo,São Vicente,355100905,3551009005,Vila Valença,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000057,Urbana,1,0,"0,0428760579",Sudeste,São Paulo,São Vicente,355100905,3551009030,Vila Voturuá,,,,,,,Baixada Santista/SP,11,0,11,11,0
+355100905000058,Urbana,1,0,"0,04275302274",Sudeste,São Paulo,São Vicente,355100905,3551009030,Vila Voturuá,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000060,Urbana,1,0,"0,05606416913",Sudeste,São Paulo,São Vicente,355100905,3551009030,Vila Voturuá,,,,,,,Baixada Santista/SP,0,4,4,0,4
+355100905000413,Urbana,1,0,"0,04837445795",Sudeste,São Paulo,São Vicente,355100905,3551009030,Vila Voturuá,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000774,Urbana,2,4,"0,5660001222",Sudeste,São Paulo,São Vicente,355100905,3551009030,Vila Voturuá,,,,,,,Baixada Santista/SP,,,,,
+355100905000775,Urbana,1,0,"0,09564553826",Sudeste,São Paulo,São Vicente,355100905,3551009030,Vila Voturuá,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000392,Rural,8,0,"2,692372939",Sudeste,São Paulo,São Vicente,355100905,,,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000745,Rural,8,4,"1,544878164",Sudeste,São Paulo,São Vicente,355100905,,,,,,,,,Baixada Santista/SP,,,,,
+355100905000746,Rural,8,4,"3,113660834",Sudeste,São Paulo,São Vicente,355100905,,,,,,,,,Baixada Santista/SP,,,,,
+355100905000747,Rural,8,4,"33,13097167",Sudeste,São Paulo,São Vicente,355100905,,,,,,,,,Baixada Santista/SP,,,,,
+355100905000748,Rural,8,0,"19,98421161",Sudeste,São Paulo,São Vicente,355100905,,,,,,,,,Baixada Santista/SP,0,0,0,0,0
+355100905000749,Rural,8,4,"5,992332699",Sudeste,São Paulo,São Vicente,355100905,,,,,,,,,Baixada Santista/SP,,,,,
+355100905000806,Urbana,3,1,"0,05265300582",Sudeste,São Paulo,São Vicente,355100905,,,3551009001,Vale Novo,35510090044,Vale Novo,,,Baixada Santista/SP,0,0,0,0,0
+355100905000850,,9,0,"7,615032019",Sudeste,São Paulo,São Vicente,355100905,,,,,,,,,Baixada Santista/SP,,,,,
+355100905000860,Rural,8,0,"10,59731956",Sudeste,São Paulo,São Vicente,355100905,,,,,,,,,Baixada Santista/SP,0,0,0,0,0

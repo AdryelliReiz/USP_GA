@@ -1,0 +1,428 @@
+﻿id;nome;bairro;tipo;endereco;cep;latitude;longitude;risco_inundacao;risco_deslizamento;classe_suscetibilidade_inundacao;distancia_deslizamento_m;nivel_risco;servicos;horario
+u001;HOFE SEG SAO VICENTE;Beira Mar;Apoio Diagnóstico e Terapia;"FREI GASPAR, 2587";11340000;-23.957548;-46.402516;sim;nao;Média;1901;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u002;CENTRO DE REABILITACAO NEUROLOGICA MATHEUS ALVARES SV;Boa Vista;Clínica Especializada;"ONZE DE JUNHO, 291";11320160;-23.971685;-46.372754;sim;nao;Baixa;484.6;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u003;CENTRO DE REABILITACAO NEUROLOGICA MATHEUS ALVARES II SV;Boa Vista;Clínica Especializada;"RANGEL PESTANA, 209";11320120;-23.96946;-46.372218;sim;sim;Baixa;232.5;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u004;IACS PRESIDENTE WILSON SAO VICENTE;Boa Vista;Apoio Diagnóstico e Terapia;"AVENIDA PRESIDENTE WILSON, 456";11320001;-23.967739;-46.348186;nao;nao;;1530.1;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u005;EVOLUIR CLINICA NEURODESENVOLVIMENTO 2 SV;Boa Vista;Clínica Especializada;"RANGEL PESTANA, 209";11320120;-23.970715;-46.37308;sim;nao;Baixa;385.8;Baixo;Atendimento geral;Manhã e tarde
+u006;ESF SA CATARINA SAO VICENTE;Catiapoã;UBS;"RUA TRAVESSA DO PARQUE, S/N";11365330;-23.957364;-46.393161;sim;nao;Alta;1444.4;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u007;UNIDADE BASICA DE SAUDE CATIAPOA SAO VICENTE;Catiapoã;UBS;"AV PERSIO DE QUEIROZ FILHO, S/N";11370300;-23.956717;-46.387331;sim;nao;Média;1489.7;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u008;APAE SAO VICENTE;Catiapoã;Clínica Especializada;"RUA FELICIANO MARCONDES DA SILVA, 205";11390220;-23.96242;-46.382;sim;nao;Média;1141.3;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u009;EDUARDO PALMIERI;Catiapoã;Consultório Isolado;"AV MARTINS FONTES, 480";11390200;-23.960685;-46.406714;sim;nao;Média;2017.9;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u010;CONSULTORIO ODONTOLOGICO MARILENE J ALVES SAO VICENTE;Catiapoã;Consultório Isolado;"RUA SALVADOR MALAQUIAS LEAL, 88";11390360;-23.956442;-46.386082;sim;nao;Alta;1544.6;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u011;RADICOM SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"PADRE ANCHIETA, 224";11310040;-23.968215;-46.384985;sim;nao;Baixa;510.4;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u012;CENTRO DE COMBATE AO CORONAVIRUS DE SAO VICENTE;Centro;UBS;"RUA JOAO RAMALHO, 1150";11310050;-23.963294;-46.387726;sim;nao;Alta;764.9;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u013;CLINICA MULT IMAGEM SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA FREI GASPAR, 790";11310061;-23.964822;-46.386613;sim;nao;Alta;647.5;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u014;LEANDRO DE LIMA GIACCHERI SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMERICK, 365";11310071;-23.967809;-46.385047;sim;nao;Baixa;523.4;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u015;ALCYR NOGUEIRA LIMA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 931";11310061;-23.964591;-46.388623;sim;nao;Alta;604.5;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u016;RMIC IMAGENS DE DIAGNOSTICOS SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA FREI GASPAR, 637";11310060;-23.966127;-46.385701;sim;nao;Média;583.4;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u017;CONSULTORIO DRA RENATA GUELLI SAO VICENTE;Centro;Consultório Isolado;"RUA XV DE NOVEMBRO, 576";11310400;-23.963755;-46.385414;sim;nao;Alta;811.3;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u018;CENTRAL MUNICIPAL DE REDE DE FRIO SAO VICENTE;Centro;Central de Abastecimento Farmacêutico;"RUA PADRE ANCHIETA, 462";11310040;-23.966523;-46.383891;sim;nao;Média;697;Médio;Abastecimento e logística farmacêutica;Manhã e tarde
+u019;FARMACIA PAGUE MENOS SAO VICENTE;Centro;Farmácia;"AV PRESIDENTE WILSON, 706";11320000;-23.968245;-46.375403;sim;nao;Baixa;353.5;Baixo;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u020;MONICA BATALHA PRADO SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320000;-23.965281;-46.382123;sim;nao;Média;923.1;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u021;TOXICOLOGICO SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"BARAO DO RIO BRANCO, 94";11310000;-23.96644;-46.386095;sim;nao;Média;530.7;Médio;Exames de apoio diagnóstico;Manhã e tarde
+u022;MAXI EXAMES;Centro;Consultório Isolado;"R JACOB EMERICK, 365";11310070;-23.967176;-46.385877;sim;nao;Média;490.8;Médio;Atendimento em consultório especializado;Manhã e tarde
+u023;TAMARA MACHADO FRACALANZA BOCCATELLI;Centro;Consultório Isolado;"AVENIDA QUINTINO BOCAIUVA, 405";11320010;-23.967568;-46.384685;sim;nao;Média;568.4;Médio;Atendimento em consultório especializado;Manhã e tarde
+u024;INSTITUTO ORTOPEDICO ITARARE SAO VICENTE;Centro;Clínica Especializada;"AV PRESIDENTE WILSON, 1340";11320920;-23.965492;-46.380825;sim;nao;Alta;915.1;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u025;SERVICO DE PERICIAS MEDICAS SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 637";11310010;-23.966083;-46.38569;sim;nao;Média;587.7;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u026;CTA BETINHO SAO VICENTE;Centro;Clínica Especializada;"AV QUINTINO BOCAIUVA, 1261";11320010;-23.967086;-46.387824;sim;nao;Alta;367.6;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u027;SECRETARIA DE SAUDE DE SAO VICENTE;Centro;Secretaria de Saúde;"RUA PADRE ANCHIETA, 462";11310040;-23.966264;-46.383546;sim;nao;Média;742.1;Médio;Gestão e administração da rede de saúde;Manhã e tarde
+u028;COMPLEXO DE ESPECIALIDADES MEDICAS SAO VICENTE;Centro;Policlínica;"RUA XV DE NOVEMBRO, 176";11310400;-23.967048;-46.386938;sim;nao;Alta;423.2;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u029;LABORATORIO DR SERGIO TAVOLARO PEREIRA SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA JOAO RAMALHO, 825";11310050;-23.96495;-46.385529;sim;nao;Média;695;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u030;SAO PEDRO ANALISES CLINICAS SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA IPIRANGA, 4";11310420;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u031;INSTITUTO OFTALMOLOGICO ACCIOLY DE GUSMAO SAO VICENTE;Centro;Hospital-Dia;"RUA AMADOR BUENO DA RIBEIRA, 68";11320060;-23.966794;-46.377159;sim;nao;Média;522.4;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u032;CLINICA PADRE ANCHIETA SAO VICENTE;Centro;Hospital-Dia;"AV PRESIDENTE WILSON, 1136";11320000;-23.965742;-46.379113;sim;nao;Média;739.5;Médio;"Atendimento Hospitalar, Serviço de Apoio (SADT), Atendimento Ambulatorial";Manhã e tarde
+u033;CLINICA MEDICA DR JOSE MARTINS FONTES SAO VICENTE;Centro;Clínica Especializada;"RUA IPIRANGA, S/N";11310420;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u034;UNIDADE MEDICA SAO VICENTE SAO VICENTE;Centro;Clínica Especializada;"RUA IPIRANGA, 28";11310420;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u035;CLINICA SAO VICENTE RAMALHO DIAGNOSES SAO VICENTE;Centro;Policlínica;"RUA IPIRANGA, 31";11310421;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u036;HOSPITAL SAO JOSE SAO VICENTE;Centro;Hospital Geral;"RUA FREI GASPAR, 790";11310061;-23.965168;-46.386657;sim;nao;Alta;611.6;Alto;"Centro Obstétrico, Centro Neonatal, Atendimento Hospitalar, Serviço de Apoio (SADT), Atendimento Ambulatorial";24 horas (plantão)
+u037;SAE CTA SERVICO DE ATENDIMENTO ESPECIALIZADO SAO VICENTE;Centro;Clínica Especializada;"AV QUINTINO BOCAIUVA, 1261";11320010;-23.96935;-46.383804;sim;nao;Baixa;442.7;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u038;MAXILABOR SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"R JACOB EMERICK, 365";11310070;-23.96827;-46.383707;sim;nao;Baixa;559.4;Baixo;Exames de apoio diagnóstico;Manhã e tarde
+u039;EDUARDO OREFICE SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320001;-23.964568;-46.383353;sim;nao;Alta;874.9;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u040;FARMACIA DE MANIPULACAO LEVEN SAO VICENTE;Centro;Farmácia;"R JACOB EMERICK, 393";11310071;-23.96827;-46.383707;sim;nao;Baixa;559.4;Baixo;Dispensação de medicamentos;Manhã e tarde
+u041;LASER PERUSSI SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 637";11310061;-23.955138;-46.40699;sim;nao;Alta;2412.7;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u042;ORTHO DENTS SAO VICENTE;Centro;Consultório Isolado;"RUA PADRE ANCHIETA, 306";11310040;-23.965838;-46.383568;sim;nao;Média;767.5;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u043;LABORATORIO PAULISTA SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA IPIRANGA, 17";11310421;-23.965107;-46.38743;sim;nao;Alta;583.1;Alto;Exames de apoio diagnóstico;Manhã e tarde
+u044;FALCONERES DE ALMEIDA OFTALMOLOGIA E MEDICINA SV;Centro;Consultório Isolado;"RUA QUINZE DE NOVEMBRO, 576";11310400;-23.96317;-46.385256;sim;nao;Alta;875.3;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u045;INSTITUTO SEGUMED UNIDADE SAO VICENTE;Centro;Clínica Especializada;"FREI GASPAR, 790";11310400;-23.965022;-46.386472;sim;nao;Alta;635.1;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u046;OMEGA3 LABORATORIO DE ANALISES CLINICAS SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA FREI GASPAR, 299";11310060;-23.968137;-46.381835;sim;nao;Média;655;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u047;CARLOS VILAR SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320001;-23.965376;-46.382029;sim;nao;Alta;920;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u048;VIVIANE AGUIAR YUMOTO FRIAS SAO VICENTE;Centro;Consultório Isolado;"BENJAMIN CONSTANT, 74";11310500;-23.963538;-46.384557;sim;nao;Alta;880;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u049;CLINICA MEDICA LIMA DIAS SAO VICENTE;Centro;Consultório Isolado;"PRESIDENTE WILSON, 1473";11320915;-23.96532;-46.382016;sim;nao;Alta;926.2;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u050;ACADEMIA DE MEDICINA FISICA E REABILITACAO DE SAO VICENTE;Centro;Clínica Especializada;"SAO VICENTE, 62";11310420;;;sem_dado;sem_dado;;;;Atendimento geral;"Manhã, tarde e noite"
+u051;ANTONIO E M CURADO SAO VICENTE;Centro;Consultório Isolado;"R FREI GASPAR, 86";11310061;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u052;CLINICA MEDICA BOA VISTA SAO VICENTE;Centro;Clínica Especializada;"RUA TREZE DE MAIO, 336";11310330;-23.966484;-46.390183;sim;nao;Alta;389.1;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u053;CLINICA RENASCER SAO VICENTE;Centro;Clínica Especializada;"AV CAPITAO MOR AGUIAR, 445";11310200;-23.967268;-46.391927;sim;nao;Média;378.1;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u054;FOCUS CLINICA OFTAMOLOGICA SAO VICENTE;Centro;Clínica Especializada;"RUA XV DE NOVEMBRO, 576";11310040;-23.965002;-46.385567;sim;nao;Média;688;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u055;LABORATORIO ANALISES MED DR JOSE RODRIGUES SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA IPIRANGA, 321";11310421;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u056;CELSO DA SILVA NORONHA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 739";11320120;-23.965607;-46.386594;sim;nao;Alta;573.2;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u057;ROBERTO DI GIOVANNI VERGARA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 305";11310061;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u058;ROGERIA RITA DE CASSIA PALMA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 739";11310061;-23.965612;-46.386707;sim;nao;Alta;566.6;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u059;CLINICA DR ROGERIO CORSO SAO VICENTE;Centro;Consultório Isolado;"JACOB EMERICK, 365";11310071;-23.967764;-46.385135;sim;nao;Baixa;517.8;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u060;LOURDES APARECIDA NORONHA SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u061;DR MILTON FERREIRA SAO VICENTE;Centro;Consultório Isolado;"AVENIDA PRESIDENTE WILSON, 1473";11310010;-23.965303;-46.382268;sim;nao;Média;909.5;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u062;ANA PAULA VILLANI BORDA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 795";11310060;-23.965291;-46.387222;sim;nao;Alta;573;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u063;LILIAN GRELLET SAO VICENTE;Centro;Consultório Isolado;"R FREI GASPAR, 931";11310060;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u064;ANTONIO JOSE GOUVEIA SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11390010;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u065;MARIA CRISTINA CHIEFFI AAGAARD SAO VICENTE;Centro;Consultório Isolado;"R FREI GASPAR, 637";11390010;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u066;GRAZIELA DE MELO RABELO FRAYHA SAO VICENTE;Centro;Consultório Isolado;"RUA QUINZE DE NOVEMBRO, 576";11310400;-23.965569;-46.386701;sim;nao;Alta;571;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u067;SANDRA MARA BARBOSA DOS SANTOS SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320001;-23.965412;-46.382251;sim;nao;Média;904.1;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u068;TERESA CRISTINA C FRABREGA DE CARVALHO SAO VICENTE;Centro;Consultório Isolado;"R PADRE ANCHIETA, 331";11310040;-23.967204;-46.384594;sim;nao;Média;596.3;Médio;Serviço de Apoio (SADT);Somente à tarde
+u069;GILMAR ALVES DE OLIVEIRA SAO VICENTE;Centro;Consultório Isolado;"AV PREFEITO JOSE MONTEIRO, 422";11340190;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u070;IBV INSTITUTO BRASILEIRO DE VISAO SAO VICENTE;Centro;Clínica Especializada;"RUA FREI GASPAR, 739";11390010;-23.965656;-46.386648;sim;nao;Alta;565.6;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u071;MAURITY RIBEIRO DE FREITAS SAO VICENTE;Centro;Consultório Isolado;"AVENIDA PRESIDENTE WILSON, 1473";11320915;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u072;THAIS MARIA PEREZ LARANJA GONCALVES SAO VICENTE;Centro;Consultório Isolado;"JOAO RAMALHO, 630";11310000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u073;FABIANA DO CARMO PELEGRINI SAO VICENTE;Centro;Consultório Isolado;"FREI GASPAR, 931";11310060;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u074;ORTOSERV SAO VICENTE;Centro;Clínica Especializada;"PADRE ANCHIETA, 331";11310000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);24 horas (plantão)
+u075;RENAULD TEOFILO BELLEGARD FILHO SAO VICENTE;Centro;Consultório Isolado;"PADRE ANCHIETA, 331";11310000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u076;JEAN KHATER FILHO SAO VICENTE;Centro;Consultório Isolado;"RUA MARTIM AFONSO, 230";11310010;-23.967406;-46.385945;sim;nao;Média;469.6;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u077;OLGAIR TEREZINHA DO AMARAL BROD SAO VICENTE;Centro;Consultório Isolado;"AVENIDA PRESIDENTE WILSON, 1473";11320001;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;Manhã e tarde
+u078;SILVIA HELENA BOAVENTURA SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1147";11320001;-23.96257;-46.37967;sim;nao;Média;940;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u079;SHEILA PROENCA DINIZ SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320915;-23.96546;-46.382187;sim;nao;Média;905.4;Médio;Serviço de Apoio (SADT);Somente à tarde
+u080;ELMA SOBRAL DE GOES SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 739";11310060;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u081;CLAYTON TIMOTEO BUENO RAMOS SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMMERICH, 379";11310070;-23.967653;-46.385112;sim;nao;Baixa;525.8;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u082;MARCELO HENRIQUE BRITO DOS SANTOS SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 931";11310061;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Turnos intermitentes
+u083;JULIO CESAR ALBINO SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 931";11310061;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Turnos intermitentes
+u084;JUREMA DA SILVA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 931";11310000;-23.964547;-46.388612;sim;nao;Alta;609.5;Alto;Serviço de Apoio (SADT);Somente à tarde
+u085;SIMONE CABRAL REBELO ASSUNCAO SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 931";11310061;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u086;JOSE GUSTAVO LOPES TAVARES SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMMERICH, 365";11310071;-23.967755;-46.385015;sim;nao;Baixa;529.1;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u087;ANTONIO JOSE ORSI FALLEIROS SAO VICENTE;Centro;Consultório Isolado;"RUA IPIRANGA, 333";11310000;-23.96469;-46.387388;sim;nao;Alta;627.7;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u088;ANA PAULA RODRIGUES FERNANDES SOUZA MARQUES SAO VICENTE;Centro;Consultório Isolado;"FREI GASPAR, 931";11310080;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u089;VICENTINA PORTOLESI GONCALVES SAO VICENTE;Centro;Consultório Isolado;"FREI GASPAR, 739";11310080;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente pela manhã
+u090;ALFREDO RECLUSA ILSE SAO VICENTE;Centro;Consultório Isolado;"FREI GASPAR, 739";11310000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u091;JULIO CESAR MENDONCA PINHEIRO SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320001;-23.96544;-46.382061;sim;nao;Alta;912.1;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u092;PAULO ROBERTO ALONSO CARNEIRO SAO VICENTE;Centro;Consultório Isolado;"IPIRANGA, 333";11310060;-23.964665;-46.387425;sim;nao;Alta;628.9;Alto;Serviço de Apoio (SADT);Somente à tarde
+u093;RICARDO GONCALVES SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 739";11310061;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u094;JOSE LUIZ SOARES MAGALHAES SAO VICENTE;Centro;Consultório Isolado;"RUA IPIRANGA, 333";11310000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u095;CARLY ARIGON FELIPPI SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1147";11310050;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u096;ROSEMARY MENDES FRANCISCO SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u097;VERAS CLINICA MEDICA SAO VICENTE;Centro;Consultório Isolado;"RUA IPIRANGA, 333";11310000;-23.964643;-46.387393;sim;nao;Alta;632.4;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u098;CASSIUS MARCELLIUS CAMPOS BITTENCOURT SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320001;-23.965367;-46.38224;sim;nao;Média;907.9;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u099;GERSON ARANHA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 739";11310060;-23.965625;-46.386685;sim;nao;Alta;566.5;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u100;VIVIANA ZAPAROLLI DE OLIVEIRA MENEZES SAO VICENTE;Centro;Consultório Isolado;"AV CAP MOR AGUIAR, 658";11310100;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u101;DULCE MARIA OLIVEIRA SANTOS FREIRE SAO VICENTE;Centro;Consultório Isolado;"RUA XV DE NOVEMBRO, 260";11310080;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u102;DENISE LIE MOLINA GROSSI SAO VICENTE;Centro;Consultório Isolado;"AV CAPITAO MOR AGUIAR, 658";11310020;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente pela manhã
+u103;CENTRO TERAPEUTICO SAO VICENTE;Centro;Consultório Isolado;"RUA MARTIM AFONSO, 251";11310010;-23.967228;-46.385782;sim;nao;Média;494.8;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u104;CENTRO MEDICO SAO LUIZ GONZAGA SC LTDA SAO VICENTE;Centro;Policlínica;"AV CAPITAO MOR AGUIAR, 658";11310903;-23.965376;-46.391411;sim;nao;Alta;539.4;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u105;MARIA LUIZA MOURA SALES SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 931";11310061;-23.964537;-46.388633;sim;nao;Alta;610.2;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u106;HELVECIO SIQUEIRA SAO VICENTE;Centro;Consultório Isolado;"RUA BENJAMIM CONSTANT, 46";11310100;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u107;EDISON GERALDO TAGLIETA SAO VICENTE;Centro;Consultório Isolado;"RUA JOAO RAMALHO, 1055";11310100;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u108;MARCIA ROSSETTO SAO VICENTE;Centro;Consultório Isolado;"BENJAMIN CONSTANT, 61";11310500;-23.963693;-46.385101;sim;nao;Alta;834.3;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u109;JOSE MARIA EVANGELISTA BARBOSA DOS SANTOS SAO VICENTE;Centro;Consultório Isolado;"RUA EXPEDICIONARIOS VICENTINOS, 80";11310030;-23.96426;-46.38502;sim;nao;Alta;787.4;Alto;Serviço de Apoio (SADT);Somente pela manhã
+u110;MAX MATOS SERRUYA SAO VICENTE;Centro;Consultório Isolado;"RUA EXPEDICIONARIOS VICENTINOS, 80";11310510;-23.964796;-46.384303;sim;nao;Média;788.5;Médio;Serviço de Apoio (SADT);Somente à tarde
+u111;ROBERTO ALCANTARA ZARATE SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1033";11320100;-23.967353;-46.378582;sim;nao;Média;663;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u112;HELCIO LUIS RIGO GADDINI SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1033";11320100;-23.967372;-46.37855;sim;nao;Média;659.7;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u113;ELI CELICE DIAS SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1033";11320100;-23.968662;-46.375718;sim;nao;Baixa;398.6;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u114;CLINICA RADIOLOGICA DE SANTOS SC LTDA SAO VICENTE;Centro;Clínica Especializada;"RUA IPIRANGA, 263";11310421;-23.965182;-46.387705;sim;nao;Alta;565.1;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u115;ALETHEA GOUVEIA DIAS CABRAL SAO VICENTE;Centro;Consultório Isolado;"RUA MARTIM AFONSO, 251";11310010;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u116;FUNDASV FUNDACAO SAO VICENTE SAO VICENTE;Centro;Clínica Especializada;"AVPRESIDENTE WILSON, 1473";11320001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u117;MARIA CRISTINA SILVA PINTO PIEDADE SAO VICENTE;Centro;Consultório Isolado;"RUA JOAO RAMALHO, 1100";11310050;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u118;CARLOS ALBERTO SILVA PINTO SAO VICENTE;Centro;Consultório Isolado;"RUA JOAO RAMALHO, 1100";11310090;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u119;JOSE AUGUSTO FALEIROS DINIZ SAO VICENTE;Centro;Consultório Isolado;"PRACA DA BANDEIRA, 23";11310030;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u120;VALDIRENE FATIMA DE OLIVEIRA SIQUEIRA SAO VICENTE;Centro;Consultório Isolado;"RUA BENJAMIN CONSTANT, 46";11310000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u121;GILBERTO SIQUEIRA SAO VICENTE;Centro;Consultório Isolado;"RUA BENJAMIN CONSTANT, 46";11310000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u122;OSWALDIR DIAS SAO VICENTE;Centro;Consultório Isolado;"RUA BENJAMIN CONSTANT, 46";11310000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u123;MARIA LYGIA TOLEDO SAWAYA ALVES SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 637";11310061;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u124;ODONTO PREV SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1169";11320001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u125;CLINICA MEDICA SAO JOSE SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"TIBIRICA, 439";11320020;-23.965469;-46.382051;sim;nao;Alta;909.5;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u126;ADRIANO DE SOUZA MIZAEL SAO VICENTE;Centro;Consultório Isolado;"BENJAMIN CONSTANT, 61";11310500;-23.963788;-46.385095;sim;nao;Alta;825.9;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u127;CENTER LASER SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMMERICH, 365";11310071;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u128;WANESSA VAZ FERNANDES PEREIRA SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMMERICH, 878";11310070;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u129;ANGELO DOS SANTOS PINHEIRO SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMMERICH, 379";11310071;-23.968518;-46.385784;sim;nao;Baixa;422.5;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u130;MEDIALISE CENTRO DE HEMODIALISE SAO VICENTE;Centro;Clínica Especializada;"TREZE DE MAIO, 175";11310330;-23.966999;-46.388643;sim;nao;Alta;343.1;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u131;CLINICA FRAYHA PEDIATRIA ALERGIA IMUNOLOGIA E VACINAS SV;Centro;Centro de Imunização;"QUINZE DE NOVEMBRO, 576";11310400;-23.966273;-46.386661;sim;nao;Alta;508.3;Alto;Atendimento geral;Manhã e tarde
+u132;ESPACO ALARAFRA SAO VICENTE;Centro;Consultório Isolado;"RUA QUINZE DE NOVEMBRO, 576";11310400;-23.963783;-46.385436;sim;nao;Alta;807.5;Alto;Atendimento em consultório especializado;Manhã e tarde
+u133;NEURO INFANCIA SAO VICENTE;Centro;Clínica Especializada;"IPIRANGA, 266";11310420;-23.965244;-46.38741;sim;nao;Alta;569.8;Alto;Atendimento geral;"Manhã, tarde e noite"
+u134;LABI EXAMES UNIDADE SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"JOAO RAMALHO, 570";11310050;-23.966048;-46.382968;sim;nao;Média;804.4;Médio;Exames de apoio diagnóstico;Manhã e tarde
+u135;NF ODONTOLOGIA A ARTE DE SORRIR SAO VICENTE;Centro;Consultório Isolado;"FREI GASPAR, 910";11310061;-23.964143;-46.387751;sim;nao;Alta;673.3;Alto;Atendimento em consultório especializado;"Manhã, tarde e noite"
+u136;POSTO DE VACINACAO BRISAMAR SV;Centro;Centro de Imunização;"RUA FREI GASPAR, 365";11310060;-23.968003;-46.383924;sim;nao;Baixa;581.9;Baixo;Atendimento geral;"Manhã, tarde e noite"
+u137;HOME SAUDE VIDA SAO VICENTE;Centro;Clínica Especializada;"FREI GASPAR, 739";11310060;-23.965496;-46.386734;sim;nao;Alta;576.2;Alto;Atendimento geral;Manhã e tarde
+u138;MYLENA VIEIRA ODONTOLOGIA SAO VICENTE;Centro;Consultório Isolado;"QUINZE DE NOVEMBRO, 576";11310400;-23.963785;-46.385385;sim;nao;Alta;810;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u139;ZAQUENIRA BATISTA BELCHIOR DE OLIVEIRA SAO VICENTE;Centro;Consultório Isolado;"RUA MARQUES DE SAO VICENTE, 166";11310180;-23.968871;-46.390693;sim;sim;Média;160.8;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u140;ODONTO MATER SAO VICENTE;Centro;Consultório Isolado;"TIBIRICA, 373";11320020;-23.966019;-46.382367;sim;nao;Média;840.9;Médio;Atendimento em consultório especializado;Manhã e tarde
+u141;LUCIANE VERGINIA SANTOS DA SILVA MENDIETA SV;Centro;Consultório Isolado;"JACOB EMERICK, 365";11310071;-23.967803;-46.385039;sim;nao;Baixa;524.5;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u142;DROGARIAS NISSEI SAO VICENTE;Centro;Farmácia;"AV PRESIDENTE WILSON, 218";11320000;-23.97103;-46.370977;sim;nao;Baixa;421.1;Baixo;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u143;ENDOSONI SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA XV DE NOVEMBRO, 576";11310400;-23.963785;-46.385385;sim;nao;Alta;810;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u144;INSTITUTO PAZ PSICOLOGIA DE A A Z LTDA SAO VICENTE;Centro;Consultório Isolado;"PRESIDENTE WILSON, 1473";11320915;-23.965359;-46.38204;sim;nao;Alta;921.3;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u145;ESTIMULO NEURO SAO VICENTE;Centro;Clínica Especializada;"FREI GASPAR, 931";11310060;-23.964783;-46.38844;sim;nao;Alta;587;Alto;Atendimento geral;"Manhã, tarde e noite"
+u146;MAXI EXAMES SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA JACOB EMERICK, 365";11310070;-23.968274;-46.383699;sim;nao;Baixa;559.3;Baixo;Exames de apoio diagnóstico;Manhã e tarde
+u147;CLINICA MULTIDICIPLINAR SERSINAPSI SAO VICENTE;Centro;Consultório Isolado;"R JOAO RAMALHO, 825";11310050;-23.966083;-46.383092;sim;nao;Média;791.7;Médio;Atendimento em consultório especializado;"Manhã, tarde e noite"
+u148;ACS VIDA;Centro;Consultório Isolado;"FREI GASPAR, 739";11310061;-23.965607;-46.3866;sim;nao;Alta;572.8;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u149;UNIDADE DE SAUDE DA MULHER SV;Centro;Clínica Especializada;"R XV DE NOVEMBRO, 176";11310400;-23.96705;-46.386927;sim;nao;Alta;423.8;Alto;Atendimento geral;Manhã e tarde
+u150;IOFA INSTITUTO ORAL E FACIAL SV;Centro;Consultório Isolado;"JOAO RAMALHO, 570";11310050;-23.965999;-46.383177;sim;nao;Média;789.6;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u151;ANTONIO ARNALDO ROMAO FILHO SAO VICENTE;Centro;Consultório Isolado;"RUA JOAO RAMALHO, 825";11310050;-23.965855;-46.383539;sim;nao;Média;768.7;Médio;Atendimento em consultório especializado;Somente à tarde
+u152;FLAVIO PROENCA MARTINS DE OLIVEIRA SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1033";11320001;-23.967229;-46.378593;sim;nao;Média;664.3;Médio;Atendimento em consultório especializado;Manhã e tarde
+u153;COD RADIOGRAFIAS SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMMERICH, 379";11310071;-23.967798;-46.385139;sim;nao;Baixa;515.7;Baixo;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u154;APARECIDO MAURILO ZABINI JUNIOR;Centro;Consultório Isolado;"AVENIDA PRESIDENTE WILSON, 1473";11320915;-23.965387;-46.382207;sim;nao;Média;909.4;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u155;INSTITUTO DE REABILITACAO FISIOLIFE SAO VICENTE;Centro;Clínica Especializada;"RUA JACOB EMERICH, 365";11310071;-23.96776;-46.385015;sim;nao;Baixa;528.8;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u156;PAJP ODONTO LTDA SAO VICENTE;Centro;Consultório Isolado;"RUA QUINZE DE NOVEMBRO, 576";11310400;-23.963599;-46.385349;sim;nao;Alta;829.5;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u157;ENEIDA RIVA FERREIRA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 637";11310061;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u158;CREFORM SISTEMA DE SAUDE SAO VICENTE;Centro;Consultório Isolado;"RUA RANGEL PESTANA, 209";11320120;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u159;KATYA CHRISTINA DA COSTA FERNANDES SAO VICENTE;Centro;Consultório Isolado;"AV ANTONIO EMERICH, 245";11390001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u160;PARTSUS SAO VICENTE;Centro;Clínica Especializada;"FREI GASPAR, 739";11310061;-23.965585;-46.386589;sim;nao;Alta;575.5;Alto;Atendimento geral;Manhã e tarde
+u161;CONSULTORIO MEDICO DR LOURENCO SAO VICENTE;Centro;Consultório Isolado;"AVENIDA PRESIDENTE WILSON, 1473";11320001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u162;ARMIDA MARIA SOLA CECCHI FERNANDES SAO VICENTE;Centro;Consultório Isolado;"RUA PADRE ANCHIETA, 331";11310040;-23.967735;-46.38477;sim;nao;Baixa;552.3;Baixo;Serviço de Apoio (SADT);Somente à tarde
+u163;LABORATORIO PASTEUR DE ANALISES CLINICAS I SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA FREI GASPAR, 739";11310061;-23.965618;-46.386674;sim;nao;Alta;567.8;Alto;Exames de apoio diagnóstico;Manhã e tarde
+u164;CESAR ALVES MALERBA SAO VICENTE;Centro;Consultório Isolado;"RUA BENJAMIN CONSTANT, 61";11310500;-23.963491;-46.385406;sim;nao;Alta;836.8;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u165;MARIA ANGELICA DA SILVA ALMEIDA SAO VICENTE;Centro;Consultório Isolado;"R BENJAMIN CONSTANT, 61";11310071;-23.963303;-46.385404;sim;nao;Alta;854.9;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u166;KAOLU NOGUI SAO VICENTE;Centro;Consultório Isolado;"RUA MARTIM AFONSO, 230";11310010;-23.967526;-46.38575;sim;nao;Baixa;478;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u167;MARIA JOSE DE ABREU SAO VICENTE;Centro;Consultório Isolado;"R JACOB EMERICH, 379";11310071;-23.967761;-46.385142;sim;nao;Baixa;517.3;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u168;PERUSSI CARVALHO OFTALMOLOGISTAS ASSOCIADOS LTDA SAO VIC;Centro;Consultório Isolado;"RUA FREI GASPAR, 637";11310061;-23.966058;-46.385723;sim;nao;Média;587.5;Médio;Serviço de Apoio (SADT);Turnos intermitentes
+u169;CHRISTIAN MARCOS ARANA ENRIQUEZ SV;Centro;Consultório Isolado;"QUINZE DE NOVEMBRO, 576";11310400;-23.963785;-46.385385;sim;nao;Alta;810;Alto;Atendimento em consultório especializado;Somente pela manhã
+u170;LOTO MD SAO VICENTE;Centro;Consultório Isolado;"FREI GASPAR, 931";11310061;-23.948925;-46.412649;sim;nao;Alta;3306.4;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u171;IGESP SAO VICENTE;Centro;Policlínica;"JACOB EMERICK, 921";11310071;-23.964975;-46.391263;sim;nao;Alta;577.1;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u172;LUIZ CARLOS ANTUNES LOPES SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 438";11310060;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u173;ALCEVIDAS II SAO VICENTE;Centro;Clínica Especializada;"QUINZE DE NOVEMBRO, 576";11310400;-23.963785;-46.385385;sim;nao;Alta;810;Alto;Atendimento geral;"Manhã, tarde e noite"
+u174;CA ODONTOLOGIA SAO VICENTE;Centro;Consultório Isolado;"RUA PADRE ANCHIETA, 306";11310040;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u175;MCM CENTER ODONTO SAO VICENTE;Centro;Consultório Isolado;"RUA JOAO RAMALHO, 825";11310050;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;Manhã e tarde
+u176;CINTIA MARA AOKI TRONOLONI SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 931";11310061;-23.9647;-46.388461;sim;nao;Alta;595.6;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u177;GASTROENDOFIT SERVICOS DE ENDOSCOPIA SAO VICENTE;Centro;Clínica Especializada;"FREI GASPAR, 790";11310061;-23.965347;-46.386444;sim;nao;Alta;605.7;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u178;M G DA SILVA NETO CLINICA SAO VICENTE;Centro;Consultório Isolado;"JOAO RAMALHO, 825";11310050;-23.964911;-46.385511;sim;nao;Média;699.5;Médio;Atendimento em consultório especializado;Manhã e tarde
+u179;IMD SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA JACOB EMERICK, 921";11310071;-23.967373;-46.38449;sim;nao;Média;596.1;Médio;Exames de apoio diagnóstico;Somente pela manhã
+u180;ATEF MOUBAREC SERVICOS ODONTOLOGICOS SAO VICENTE;Centro;Consultório Isolado;"QUINZE DE NOVEMBRO, 576";11310400;-23.963803;-46.385242;sim;nao;Alta;816.2;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u181;WO ODONTOLOGIA SAO VICENTE;Centro;Consultório Isolado;"QUINZE DE NOVEMBRO, 576";11310400;-23.963785;-46.385385;sim;nao;Alta;810;Alto;Atendimento em consultório especializado;Manhã e tarde
+u182;MACRINO DA SILVA FILHO SAO VICENTE;Centro;Consultório Isolado;"RUA JOAO RAMALHO, 825";11310510;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u183;ALMAI INSTITUTO DE NEURODESENVOLVIMENTO INFANTIL SV;Centro;Clínica Especializada;"RUA SANTA CRUZ, 134";11310290;-23.968118;-46.39015;sim;sim;Alta;210;Alto;Atendimento geral;Manhã e tarde
+u184;RENATO VANZELLA VICENTE SAO VICENTE;Centro;Consultório Isolado;"BENEDITO CALIXTO, 182";11320070;-23.967474;-46.376148;sim;nao;Média;415.8;Médio;Atendimento em consultório especializado;Manhã e tarde
+u185;EVOLUIR CLINICA NEURO DESENVOLVIMENTO SV;Centro;Clínica Especializada;"JOAO RAMALHO, 803";11310050;-23.966222;-46.383005;sim;nao;Média;791;Médio;Atendimento geral;Manhã e tarde
+u186;LETICIA ALMEIDA TARRACO MARQUES SV;Centro;Consultório Isolado;"JOAO RAMALHO, 825";11310050;-23.966185;-46.383231;sim;nao;Média;773.7;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u187;SER E CRESCER SAO VICENTE;Centro;Clínica Especializada;"QUINZE DE NOVEMBRO, 576";11310400;-23.963827;-46.385398;sim;nao;Alta;805.4;Alto;Atendimento geral;"Manhã, tarde e noite"
+u188;POLICLINICA IPIRANGA;Centro;Policlínica;"RUA IPIRANGA, 36";11310420;-23.96722;-46.388319;sim;nao;Alta;331.5;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u189;COMPLEXO REGULADOR SAO VICENTE;Centro;Central de Regulação do Acesso;"RUA PADRE ANCHIETA, 462";11310010;-23.966479;-46.383864;sim;nao;Média;702;Médio;Regulação de acesso a serviços de saúde;Manhã e tarde
+u190;UNIDADE MOVEL ODONTOLOGICA SAO VICENTE;Centro;Unidade Móvel Terrestre;"RUA PADRE ANCHIETA, 462";11310040;-23.966379;-46.383744;sim;nao;Média;718.3;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u191;LUCYMARA SALVIA;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11310000;-23.965411;-46.381986;sim;nao;Alta;918;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u192;TOMOSANTOS;Centro;Clínica Especializada;"PRACA BERNARDINO DE CAMPOS, 339";11310300;-23.967714;-46.388435;sim;sim;Alta;276.7;Alto;Atendimento geral;Manhã e tarde
+u193;TORTIA ODONTOLOGIA;Centro;Consultório Isolado;"RUA JACOB EMMERICK, 365";11310071;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u194;CATARINA RAMOS MARTINS SAO VICENTE;Centro;Consultório Isolado;"PRACA BARAO DO RIO BRANCO, 94";11310000;-23.966827;-46.385822;sim;nao;Média;520.2;Médio;Atendimento em consultório especializado;Manhã e tarde
+u195;WILSON CESAR BUENO;Centro;Consultório Isolado;"RUA SOROCABANA, 93";11310450;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u196;BRUNO FROES LIMA LAFRAIA SAO VICENTE;Centro;Consultório Isolado;"RUA JOAO RAMALHO, 574";11310050;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;"Manhã, tarde e noite"
+u197;CARINA MARTINS CARNEIRO FRANCISCO SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 637";11310061;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;Manhã e tarde
+u198;RAIA DROGASIL FILIAL 181 SV;Centro;Farmácia;"FREI GASPAR, 504";11310060;-23.966553;-46.384298;sim;nao;Média;660.8;Médio;Dispensação de medicamentos;"Manhã, tarde e noite"
+u199;RAIA DROGASIL LOJA 0017 SV;Centro;Farmácia;"FREI GASPAR, 686";11310061;-23.965808;-46.385779;sim;nao;Média;604.6;Médio;Dispensação de medicamentos;"Manhã, tarde e noite"
+u200;NILTON LUIZ BRANCO;Centro;Consultório Isolado;"RUA FREI GASPAR, 773";11310061;-23.965517;-46.386816;sim;nao;Alta;570;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u201;IACS XV DE NOVEMBRO SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"QUINZE DE NOVEMBRO, 313";11310400;-23.965757;-46.386608;sim;nao;Alta;558.4;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u202;RICARDO DE SALLES JUNQUEIRA;Centro;Consultório Isolado;"RUA FREI GASPAR, 548";11310060;-23.966405;-46.384628;sim;nao;Média;643.5;Médio;Atendimento em consultório especializado;Manhã e tarde
+u203;CLINIMATER SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA IPIRANGA, 339";11310421;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u204;CONSULTORIO ODONTOLOGICO CRISTIANE ROSA DOS SANTOS S VIC;Centro;Consultório Isolado;"RUA JACOB EMMERICH, 379";11310071;-23.967599;-46.385106;sim;nao;Baixa;529.2;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u205;CONSULTORIO DE PSICOLOGIA VANDA DO CARMO L DIAS S VICENTE;Centro;Consultório Isolado;"RUA IPIRANGA, 345";11310400;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;"Manhã, tarde e noite"
+u206;CLINICA DE VACINACAO IMUNITI LTDA;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320001;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;Manhã e tarde
+u207;LABORATORIO DE ANALISES CLINICAS CELLULA MATER SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA VISCONDE DE TAMANDARE, 499";11310441;-23.965033;-46.390267;sim;nao;Alta;550.2;Alto;Exames de apoio diagnóstico;Manhã e tarde
+u208;MP FISIOTERAPIA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 739";11310060;-23.965542;-46.386695;sim;nao;Alta;573.9;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u209;MARIA CONCEICAO PEREZ DOMINGUES SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMMERICK, 379";11310071;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;Manhã e tarde
+u210;CONSULTORIO ODONTOLOGICO DRA VIRGINIA AZEVEDO SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 739";11310061;-23.965607;-46.386546;sim;nao;Alta;575.8;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u211;DAY CENTER CIRURGIAS SAO VICENTE;Centro;Clínica Especializada;"AV PRESIDENTE WILSON, 1136";11320000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u212;NASO NUCLEO DE ASSISTENCIA A SAUDE ODONTOLOGICA SV;Centro;Clínica Especializada;"PRACA BARAO DO RIO BRANCO, 187";11380080;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u213;CAIXA DE SAUDE E PECULIO DOS SERVIDORES MUN DE SAO VICENTE;Centro;Policlínica;"R FREI GASPAR, 157";11310060;-23.968154;-46.381716;sim;nao;Média;660.2;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u214;FISIOTERAPIA INTEGRADA SAO VICENTE;Centro;Clínica Especializada;"RUA FREI GASPAR, 739";11310061;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u215;CONSULTORIO DE PSICOLOGIA DRA EMANOELE ALMEIDA MOURA;Centro;Consultório Isolado;"RUA PADRE ANCHIETA, 331";11310040;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u216;AMBULATORIO ANA COSTA DE SAO VICENTE;Centro;Policlínica;"AV PRESIDENTE WILSON, 772";11320000;-23.968662;-46.375718;sim;nao;Baixa;398.6;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u217;CEO III INSULAR SAO VICENTE;Centro;Clínica Especializada;"AV QUINTINO BOCAIUVA, 1261";11320010;-23.963555;-46.381297;sim;nao;Média;1030.4;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u218;EDUARDO CONDE DA SILVA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 739";11310061;-23.965571;-46.386685;sim;nao;Alta;571.6;Alto;Serviço de Apoio (SADT);Somente à tarde
+u219;INST DE OFTALMOLOGIA DA B SANTISTA IOBS S VICENTE;Centro;Clínica Especializada;"RUA JOAO RAMALHO, 825";11310050;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u220;CATH CENTRO DE ATEND A TUBERCULOSE E HANSENIASE SV;Centro;Clínica Especializada;"RUA BENEDITO CALIXTO, 275";11320070;-23.966759;-46.375965;sim;nao;Média;402.9;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u221;SUCEN SERVICO REGIONAL 02 SAO VICENTE;Centro;Vigilância em Saúde;"RUA JOAO RAMALHO, 587";11310050;-23.963;-46.392;sim;nao;Alta;809;Alto;Vigilância epidemiológica e sanitária;Manhã e tarde
+u222;OSWALDO GUAPO SAO VICENTE;Centro;Consultório Isolado;"RUA QUINZE DE NOVEMBRO, 260";11310400;-23.966443;-46.386535;sim;nao;Alta;501.2;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u223;HOSPITAL E MATERNIDADE MUNICIPAL DE SAO VICENTE;Centro;Hospital Especializado;"RUA IPIRANGA, 370";11310420;-23.964159;-46.387139;sim;nao;Alta;691.9;Alto;"Centro Obstétrico, Centro Neonatal, Atendimento Hospitalar, Serviço de Apoio (SADT), Atendimento Ambulatorial";24 horas (plantão)
+u224;CLINICA TOTAL SAUDE SAO VICENTE;Centro;Policlínica;"RUA VISCONDE TAMANDARE, 481";11310440;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u225;VISION CID LASER CLINICA DE OLHOS SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMERICK, 379";11310071;-23.967724;-46.385071;sim;nao;Baixa;525.7;Baixo;Atendimento em consultório especializado;Manhã e tarde
+u226;CLINICA LAGON SAO VICENTE;Centro;Consultório Isolado;"RUA PADRE ANCHIETA, 331";11340040;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;Manhã e tarde
+u227;CLINICA BRASIMED SAO VICENTE;Centro;Consultório Isolado;"PRACA BARAO DO RIO BRANCO, 54";11310000;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;Manhã e tarde
+u228;BRENO NAPPI VENTURA SAO VICENTE;Centro;Consultório Isolado;"RUA JOAO RAMALHO, 839";11310050;-23.964862;-46.385505;sim;nao;Média;704.3;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u229;ANGIOCORPORE SAO VICENTE;Centro;Clínica Especializada;"FREI GASPAR, 365";11310935;-23.967127;-46.383625;sim;nao;Média;683.8;Médio;Atendimento geral;Manhã e tarde
+u230;LABORATORIO ESPECIALIZADO DE DSTHIV SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA IPIRANGA, 353";11310421;-23.964216;-46.387245;sim;nao;Alta;682.1;Alto;Exames de apoio diagnóstico;Manhã e tarde
+u231;RITA DE CASSIA DE SOUZA SA SAO VICENTE;Centro;Consultório Isolado;"AVENIDA PRESIDENTE WILSON, 1473";11320010;-23.965328;-46.382261;sim;nao;Média;908.5;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u232;CLINICA RADIOLOGICA DO GUARUJA SAO VICENTE;Centro;Clínica Especializada;"RUA IPIRANGA, 345";11310420;-23.964529;-46.387364;sim;nao;Alta;645.3;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u233;UP CENTRO AUDITIVO SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA JOAO RAMALHO, 803";11310050;-23.96518;-46.385355;sim;nao;Média;685.8;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u234;ANA MARIA ALVES RIBEIRO;Centro;Consultório Isolado;"RUA PADRE ANCHIETA, 331";11310040;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u235;TRASMONTANO SAO VICENTE;Centro;Policlínica;"RUA JACOB EMMERICH, 921";11310071;-23.966;-46.386;sim;nao;Média;573.8;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u236;CLINICA DE ESTETICA BOA FORMA;Centro;Consultório Isolado;"RUA JOAO RAMALHO, 803";11310050;-23.965009;-46.385323;sim;nao;Média;702.6;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u237;CLINICA TOTAL SAUDE SAO VICENTE;Centro;Policlínica;"RUA VISCONDE DE TAMANDARE, 481";11310440;-23.96652;-46.390093;sim;nao;Média;384;Médio;Atendimento geral;Manhã e tarde
+u238;RENASCER SERVICOS MEDICOS LTDA SAO VICENTE;Centro;Clínica Especializada;"R SANTA CRUZ, 134";11310290;-23.965664;-46.376794;sim;nao;Média;517.5;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u239;SORRIDENTS CLINICAS ODONTOLOGICAS SAO VICENTE;Centro;Consultório Isolado;"RUA XV DE NOVEMBRO, 81";11310400;-23.967884;-46.387433;sim;nao;Alta;320.6;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u240;ODONTOCOMPANY SAO VICENTE;Centro;Consultório Isolado;"RUA JOAO RAMALHO, 560";11310050;-23.96593;-46.383041;sim;nao;Média;805.4;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u241;DENTISTE ODONTOLOGIA SAO VICENTE;Centro;Consultório Isolado;"AMADOR BUENO DA RIBEIRA, 64";11320060;-23.968181;-46.377871;sim;nao;Média;597.5;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u242;FARMA CONDE FILIAL 462 SV;Centro;Farmácia;"PADRE ANCHIETA, 454";11310040;-23.966347;-46.383797;sim;nao;Média;715.8;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u243;CLINICA DE OLHOS EDUARDO PAULINO SAO VICENTE;Centro;Clínica Especializada;"FREI GASPAR, 790";11310061;-23.965224;-46.386986;sim;nao;Alta;590.3;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u244;DROGASIL DS0775 SV;Centro;Farmácia;"PRESIDENTE WILSON, 962";11320000;-23.967318;-46.377598;sim;nao;Média;563;Médio;Dispensação de medicamentos;"Manhã, tarde e noite"
+u245;DROGARAIA LJ0163 SV;Centro;Farmácia;"PRESIDENTE WILSON, 256";11310913;-23.970202;-46.371599;sim;nao;Baixa;317.9;Baixo;Dispensação de medicamentos;"Manhã, tarde e noite"
+u246;DALSON NERY CAIVANO SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 637";11310061;-23.966127;-46.38568;sim;nao;Média;584.9;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u247;CLINICA MEDICA IPIRANGA SAO VICENTE;Centro;Consultório Isolado;"RANGEL PESTANA, 209";11320120;-23.971109;-46.373403;sim;nao;Baixa;437.3;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u248;PRO SAUDE VACINAS E APLICACOES;Centro;Centro de Imunização;"AVENIDA PRESIDENTE WILSON, 1473";11320001;-23.965577;-46.382115;sim;nao;Média;896;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u249;JOAO FERNANDO CESAR GONCALVES DO NASCIMENTO SAO VICENTE;Centro;Consultório Isolado;"RUA PADRE ANCHIETA, 64";11310040;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u250;BIO LABORATORIO DE ANALISES CLINICAS DE SANTOS SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"AV PRESIDENTE WILSON, 1473";11320001;-23.965264;-46.382141;sim;nao;Média;922.6;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u251;R R M PSICOLOGIA LTDA ME SAO VICENTE;Centro;Consultório Isolado;"JOAO RAMALHO, 803";11310050;-23.96503;-46.385326;sim;nao;Média;700.6;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u252;CLINICA DE IMAGEM SAO VICENTE SAO VICENTE;Centro;Consultório Isolado;"IPIRANGA, 339";11310421;-23.96518;-46.387434;sim;nao;Alta;575.4;Alto;Atendimento em consultório especializado;Manhã e tarde
+u253;CLINICA CDAD JCC;Centro;Clínica Especializada;"FREI GASPAR, 790";11310902;-23.965352;-46.386353;sim;nao;Alta;610.3;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u254;INSTITUTO INCLUSAO BRASIL SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMERICK, 365";11310070;-23.96776;-46.385015;sim;nao;Baixa;528.8;Baixo;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u255;INSTITUTO DE LASERTERAPIA MED LASER LTDA SAO VICENTE;Centro;Clínica Especializada;"RUA FREI GASPAR, 147";11310060;-23.96822;-46.381569;sim;nao;Média;662.7;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u256;MARJORY ALFARO NASCIMENTO SAO VICENTE;Centro;Consultório Isolado;"AV CAPITAO MOR AGUIAR, 210";11310200;-23.969072;-46.391707;sim;sim;Média;231.8;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u257;LA LUMIERE PSICOLOGIA SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMERICK, 365";11310071;-23.965011;-46.391547;sim;nao;Alta;582.3;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u258;PSICOLORINDO CLINICA DE PSICOLOGIA SAO VICENTE;Centro;Consultório Isolado;"RUA QUINZE DE NOVEMBRO, 576";11310400;-23.963704;-46.385425;sim;nao;Alta;815.5;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u259;DR EXAMINA SAO VICENTE;Centro;Policlínica;"RUA TIBIRICA, 160";11320020;-23.967376;-46.383096;sim;nao;Baixa;673.5;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u260;LABORATORIO DR LEAO DE MOURA SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"IPIRANGA, 321";11310421;-23.964812;-46.387413;sim;nao;Alta;614.1;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u261;LABORATORIO SANTA CLARA SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"PADRE ANCHIETA, 224";11310040;-23.968164;-46.384882;sim;nao;Baixa;522.2;Baixo;Exames de apoio diagnóstico;Manhã e tarde
+u262;MEDSEG SAO VICENTE;Centro;Clínica Especializada;"RUA JACOB EMERICK, 1074";11310070;-23.964798;-46.390923;sim;nao;Alta;587.4;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u263;JULIANA CRUZ FERNANDES SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 637";11310061;-23.966058;-46.38569;sim;nao;Média;589.8;Médio;Serviço de Apoio (SADT);Somente à tarde
+u264;MARIA LUISA SAMPERE SERNA CRUZ SAO VICENTE;Centro;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320915;-23.965412;-46.38224;sim;nao;Média;905.1;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u265;I T CAVALCANTE CLINICA SAO VICENTE;Centro;Policlínica;"RUA IPIRANGA, 345";11310421;-23.964597;-46.387474;sim;nao;Alta;634.2;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u266;CLINICA FARES SAO VICENTE;Centro;Consultório Isolado;"R QUINZE DE NOVEMBRO, 176";11310040;-23.96317;-46.385256;sim;nao;Alta;875.3;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u267;CONSULTORIO DE PSICOLOGIA VITALITE SAUDE SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 637";11310060;-23.949755;-46.411818;sim;nao;Alta;3181.5;Alto;Atendimento em consultório especializado;Manhã e tarde
+u268;CLINICA IPIRANGA LTDA SAO VICENTE;Centro;Consultório Isolado;"RUA GONCALO MONTEIRO, 154";11320110;-23.9687;-46.373092;sim;sim;Baixa;181.1;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u269;MARIA BEATRIZ ESTOGIO SILVA SAO VICENTE;Centro;Consultório Isolado;"RUA JACOB EMERICK, 365";11310071;-23.965011;-46.391547;sim;nao;Alta;582.3;Alto;Atendimento em consultório especializado;"Manhã, tarde e noite"
+u270;E T S FISIOTERAPIA SAO VICENTE;Centro;Consultório Isolado;"RUA FREI GASPAR, 739";11310061;-23.965628;-46.386671;sim;nao;Alta;567;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u271;DOMINIO IMAGEM SAO VICENTE;Centro;Apoio Diagnóstico e Terapia;"RUA PADRE ANCHIETA, 224";11310040;-23.968142;-46.384879;sim;nao;Baixa;523.4;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u272;CSS EXAMES PSICOTECNICOS SAO VICENTE;Centro;Consultório Isolado;"RUA QUINZE DE NOVEMBRO, 576";11310400;-23.963728;-46.385414;sim;nao;Alta;813.9;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u273;DANIELA MARIA BUENO DE VARGAS SAO VICENTE;Centro;Consultório Isolado;"RUA QUINZE DE NOVEMBRO, 576";11310400;-23.963706;-46.385435;sim;nao;Alta;814.8;Alto;Serviço de Apoio (SADT);Somente à tarde
+u274;SAMU 192 SAO VICENTE 8;Cidade Náutica;Unidade Móvel de Urgência;"PRACA IMIGRACAO JAPONESA, S/N";11355230;-23.950627;-46.406641;sim;nao;Alta;2757;Alto;Atendimento geral;24 horas (plantão)
+u275;UNIDADE BASICA DE SAUDE TANCREDO NEVES SAO VICENTE;Cidade Náutica;UBS;"RUA LUIZ MEIRELES DE ARAUJO, 160";11350560;-23.941615;-46.419081;sim;nao;Alta;4344.9;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u276;PRONTO ATENDIMENTO CIDADE NAUTICA SAO VICENTE;Cidade Náutica;Pronto Socorro;"PRACA IMIGRACAO JAPONESA, S/N";11310000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);24 horas (plantão)
+u277;UNIDADE BASICA DE SAUDE NAUTICA III SAO VICENTE;Cidade Náutica;UBS;"RUA NICOLAU PATRICIO MOREIRA, 225";11340380;-23.954315;-46.415896;sim;nao;Alta;3184.6;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u278;SAMU 192 SAO VICENTE 1;Cidade Náutica;Unidade Móvel de Urgência;"PRACA IMIGRACAO JAPONESA, S/N";11355230;-23.950617;-46.406652;sim;nao;Alta;2758.6;Alto;Atendimento geral;24 horas (plantão)
+u279;SAMU 192 SAO VICENTE 3;Cidade Náutica;Unidade Móvel de Urgência;"PRACA IMIGRACAO JAPONESA, S/N";11355230;-23.950607;-46.406641;sim;nao;Alta;2758.7;Alto;Atendimento geral;24 horas (plantão)
+u280;SAMU 192 SAO VICENTE 4;Cidade Náutica;Unidade Móvel de Urgência;"PRACA IMIGRACAO JAPONESA, S/N";11355230;;;sem_dado;sem_dado;;;;Atendimento geral;24 horas (plantão)
+u281;SAMU 192 SAO VICENTE 6;Cidade Náutica;Unidade Móvel de Urgência;"PRACA IMIGRACAO JAPONESA, S/N";11355230;-23.951077;-46.406335;sim;nao;Alta;2698.5;Alto;Atendimento geral;24 horas (plantão)
+u282;SEST SENAT UNIDADE B N51 SV;Cidade Náutica;Clínica Especializada;"ADALBERTO PANZAN, 151";11340265;-23.951903;-46.416343;sim;nao;Alta;3375;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u283;HOSPITAL DR OLAVO HORNEAUX DE MOURA SAO VICENTE;Humaitá;Hospital Geral;"RUA ALFREDO SCHAMMAS, S/N";11349000;-23.949914;-46.45965;sim;nao;Baixa;7446.2;Baixo;"Serviço de Apoio (SADT), Atendimento Ambulatorial";24 horas (plantão)
+u284;DROGAFARMA HUMAITA SV;Outras localidades (agregado);Farmácia;"HATCHIC ARMENIO CAICHJIAN, 232";11349390;-23.94951;-46.459462;sim;nao;Baixa;7443.3;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u285;SORRIDENTS CLINICAS ODONTOLOGICAS SV;Esplanada dos Barreiros;Consultório Isolado;"SENADOR CESARIO BASTOS, 225";11340100;-23.957771;-46.401958;sim;nao;Média;1844.1;Médio;Atendimento em consultório especializado;Manhã e tarde
+u286;ESF ESPLANADA DOS BARREIROS SAO VICENTE;Esplanada dos Barreiros;UBS;"AV BRASIL, S/N";11330750;-23.96533;-46.413411;sim;nao;Alta;2445.9;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u287;POSTO DE ENFERMAGEM DO GONZAGUINHA SAO VICENTE;Gonzaguinha;Posto de Saúde;"AV EMBAIXADOR PEDRO DE TOLEDO, S/N";11320440;-23.970567;-46.383927;sim;nao;Baixa;314;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u288;ORLANDO FERREIRA DA COSTA SAO VICENTE;Gonzaguinha;Consultório Isolado;"AMADOR BUENO DA RIBEIRA, 64";11320060;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u289;BEAUTY GRAF CENTER SAO VICENTE;Gonzaguinha;Clínica Especializada;"GONCALO MONTEIRO, 189";11320110;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u290;BIOMEGA MEDICINA DIAGNOSTICA SAO VICENTE;Gonzaguinha;Clínica Especializada;"FREI GASPAR, 147";11310060;-23.968249;-46.380988;sim;nao;Média;696.2;Médio;Atendimento geral;Manhã e tarde
+u291;IMUVI INSTITUTO DE MEDICINA HUMANAE VITAE SV;Gonzaguinha;Clínica Especializada;"DOUTOR AMERICO BRASILIENSE, 307";11320040;-23.965572;-46.379336;sim;nao;Alta;766.2;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u292;ESF HUMAITA SAO VICENTE;Humaitá;UBS;"RUA ALFREDO NEVES, 319";11349370;-23.950216;-46.460013;sim;nao;Baixa;7470;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u293;CAD CENTRO APOIO E DIAGNOSTICO SAO VICENTE;Humaitá;Apoio Diagnóstico e Terapia;"RUA JOSE SINGER, S/N";11349000;-23.948823;-46.461355;sim;nao;Média;7650.1;Médio;Exames de apoio diagnóstico;Manhã e tarde
+u294;PRONTO ATENDIMENTO HUMAITA SAO VICENTE;Humaitá;Pronto Atendimento;"RUA JOSE SINGER, S/N";11349000;-23.949644;-46.459475;sim;nao;Baixa;7439.5;Baixo;Serviço de Apoio (SADT);24 horas (plantão)
+u295;GLAUCIRA PECE VENTURA SAO VICENTE;Humaitá;Consultório Isolado;"DR JOSE SINGER, 387";11349000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Somente à tarde
+u296;ACADEMIA DA SAUDE HUMAITA;Humaitá;Polo Academia da Saúde;"PRACA SEBASTIAO AUGUSTO DA SILVA, S/N";11349190;-23.952639;-46.454035;sim;nao;Média;6808.2;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u297;RONNY TRAVASSOS AZURZA;Itararé;Consultório Isolado;"R JOAO JOSE FLORINDO DA SILVA, 27";11320230;-23.967373;-46.38449;sim;nao;Média;596.1;Médio;Atendimento em consultório especializado;Manhã e tarde
+u298;I U G C SAO VICENTE;Itararé;Clínica Especializada;"AV PRESIDENTE WILSON, 1033";11320001;-23.967304;-46.378593;sim;nao;Média;664.1;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u299;CLINICA DE OLHOS CARVALHO SAO VICENTE;Itararé;Consultório Isolado;"AVENIDA PRESIDENTE WILSON, 1473";11320001;-23.96532;-46.382187;sim;nao;Média;915.3;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u300;CARLOS SARKISSIAN SOBRINHO SAO VICENTE;Itararé;Consultório Isolado;"AVENIDA PRESIDENTE WILSON, 1081";11310090;-23.967075;-46.378921;sim;nao;Média;698.2;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u301;ROSANGELA SOARES MOREIRA SAO VICENTE;Itararé;Consultório Isolado;"AV PRESIDENTE WILSON, 89";11310100;-23.971713;-46.370463;sim;nao;Baixa;508.9;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u302;CLINICA MEDICA GADDINI LTDA SAO VICENTE;Itararé;Consultório Isolado;"AV PRESIDENTE WILSON, 1033";11310100;-23.967333;-46.37855;sim;nao;Média;659.7;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u303;ECELD MEDICINA E SAUDE LTDA SAO VICENTE;Itararé;Clínica Especializada;"AV PRESIDENTE WILSON, 1033";11320001;-23.967385;-46.378557;sim;nao;Média;660.4;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u304;AMOR SAUDE CLINICA ODONTOLOGICA SAO VICENTE;Itararé;Consultório Isolado;"MESSIA ASSU, 443";11320130;-23.970731;-46.371538;sim;nao;Baixa;377;Baixo;Atendimento em consultório especializado;Manhã e tarde
+u305;DROGARAIA LJ0640 SV;Itararé;Farmácia;"PRESIDENTE WILSON, 1169";11320001;-23.966803;-46.379663;sim;nao;Média;775.4;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u306;CLINICA PELLEGRINI SAO VICENTE;Itararé;Clínica Especializada;"FREITAS GUIMARAES, 445";11320080;-23.968842;-46.373017;sim;sim;Baixa;190.2;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u307;VANIA LUCIA NOGUEIRA MENDES TAGLIARINI SAO VICENTE;Itararé;Consultório Isolado;"AV PRESIDENTE WILSON, 1473";11320001;-23.96543;-46.382232;sim;nao;Média;904.6;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u308;CLINICA MICHELLA CHAYAMITI SAO VICENTE;Itararé;Consultório Isolado;"AVENIDA PRESIDENTE WILSON, 1033";11320001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u309;POSTO DE ENFERMAGEM DO ITARARE SAO VICENTE;Itararé;Posto de Saúde;"AV AYRTON SENNA DA SILVA, S/N";11321000;-23.972133;-46.368856;sim;nao;Baixa;621.2;Baixo;Atendimento geral;Somente pela manhã
+u310;FUNDACAO PLURAL SAO VICENTE;Itararé;Consultório Isolado;"AV PRES WILSON, 1033";11320001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u311;ASSOCIACAO PLURAL SAO VICENTE;Itararé;Consultório Isolado;"AV PRES WILSON, 1033";11320001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u312;NOTRE DAME INTERMEDICA SAUDE AMBULATORIO SAO VICENTE;Itararé;Policlínica;"AV PRESIDENTE WILSON, 199";11320001;-23.968817;-46.375694;sim;nao;Baixa;402.9;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u313;OFTALMOCENTER SAO VICENTE;Itararé;Consultório Isolado;"R ONZE DE JUNHO, 96";11320160;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;Manhã e tarde
+u314;SAMU 192 SAO VICENTE 5;Itararé;Unidade Móvel de Urgência;"AVENIDA AYRTON SENNA, S/N";11321000;-23.972157;-46.368835;sim;nao;Baixa;624.5;Baixo;Atendimento geral;24 horas (plantão)
+u315;DERMA REUMA CLINICA ESPECIALIZADA LTDA SAO VICENTE;Itararé;Consultório Isolado;"AV PRESIDENTE WILSON, 89";11320910;-23.968662;-46.375718;sim;nao;Baixa;398.6;Baixo;Atendimento em consultório especializado;Manhã e tarde
+u316;PCF SAUDE INTEGRATIVA SV;Itararé;Consultório Isolado;"PRESIDENTE WILSON, 1473";11320001;-23.965509;-46.382163;sim;nao;Média;901.2;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u317;JULIA BITTENCOURT NUTRICIONISTA SAO VICENTE;Itararé;Consultório Isolado;"AV MANOEL DA NOBREGA, 1439";11320202;-23.968161;-46.360134;nao;nao;;317;Baixo;Atendimento em consultório especializado;Manhã e tarde
+u318;AMOR SAUDE SAO VICENTE;Itararé;Policlínica;"MESSIA ASSU, 443";11320130;-23.972955;-46.37295;sim;nao;Baixa;627.2;Baixo;Atendimento geral;Manhã e tarde
+u319;AME AMBULATORIO MEDICO DE ESPECIALIDADES DE SAO VICENTE;Itararé;Hospital-Dia;"AVENIDA PRESIDENTE WILSON, 291";11320001;-23.97103;-46.370977;sim;nao;Baixa;421.1;Baixo;"Atendimento Hospitalar, Serviço de Apoio (SADT), Atendimento Ambulatorial";Manhã e tarde
+u320;ODONTO PRAIA SAO VICENTE;Itararé;Consultório Isolado;"RUA ONZE DE JUNHO, 292";11320160;-23.971306;-46.372543;sim;nao;Baixa;440;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u321;ESF JAPUI SAO VICENTE;Japuí;UBS;"AV TUPINIQUINS, S/N";11325000;-23.984736;-46.39504;sim;nao;Média;849.6;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u322;UNIDADE BASICA DE SAUDE JARDIM GUASSU SAO VICENTE;Jardim Guassu;UBS;"RUA LAGARTO, 101";11370580;-23.951725;-46.380155;sim;nao;Alta;1924.8;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u323;LUIZ ALBERTO RIBEIRO BRAS SAO VICENTE;Jardim Guassu;Consultório Isolado;"RUA FRANCISCO SILVA SANTOS, 20";11370350;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u324;CAPS I CENTRO DE ATENCAO PSICOSSOCIAL INFANTIL SAO VICENTE;Jardim Guassu;CAPS;"RUA SANTO ANTONIO, 64";11370540;-23.95249;-46.374908;sim;nao;Média;1680.2;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u325;ADRIANA PEREIRA MANTOVANELLI SAO VICENTE;Jardim Independência;Consultório Isolado;"AVENIDA PREFEITO JOSE MONTEIRO, 765";11380001;-23.964168;-46.371762;sim;nao;Alta;357.7;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u326;FARMA CONDE FILIAL 133 SV;Jardim Independência;Farmácia;"PREFEITO JOSE MONTEIRO, 587";11380001;-23.964011;-46.372303;sim;nao;Alta;374.8;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u327;DROGARIA CARREFOUR DSV;Jardim Independência;Farmácia;"PREFEITO JOSE MONTEIRO, 1045";11380001;-23.967411;-46.369546;sim;sim;Média;255.2;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u328;ODONTO SPECIALITTE SAO VICENTE;Jardim Independência;Consultório Isolado;"RUA BERTA CRAVEIRO LOPES, 36";11380510;-23.96168;-46.374619;sim;nao;Média;684.6;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u329;UNIERO RADIOLOGIA;Jardim Independência;Consultório Isolado;"RUA BERTA CRAVEIROS LOPES, 40";11380510;-23.963159;-46.374237;sim;nao;Média;518.4;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u330;UBIRAJARA DE MELLO JUNIOR SAO VICENTE;Jardim Independência;Consultório Isolado;"RUA BERTA CRAVEIRO LOPES, 36";11380510;-23.96168;-46.374619;sim;nao;Média;684.6;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u331;MARYANE SASSI TELLES BAPTISTA SAO VICENTE;Jardim Independência;Consultório Isolado;"AV PREFEITO JOSE MONTEIRO, 577";11380001;-23.963235;-46.375035;sim;nao;Média;550.8;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u332;TOPFISIO CLINICA DE FISIOTERAPIA LTDA SAO VICENTE;Jardim Independência;Clínica Especializada;"AV PREFEITO JOSE MONTEIRO, 844";11380000;-23.965301;-46.370831;sim;sim;Alta;262;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u333;PRISCILLA KATHERINE DE CARVALHO;Jardim Independência;Consultório Isolado;"AV PREFEITO JOSE MONTEIRO, 765";11380001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u334;CATUENSE SAO VICENTE;Jardim Irmã Dolores;Consultório Isolado;"DA MARKET, 810";11347590;-23.972734;-46.449036;sim;nao;Alta;5947.6;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u335;UNIDADE DE SAUDE DA MULHER DAVID CAPISTRANO SAO VICENTE;Jardim Irmã Dolores;UBS;"RUA SALVADOR, 60";11347725;-23.980172;-46.451803;sim;nao;Alta;6152.5;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u336;DRIELEN CARVALHO S DE PAULA PSICOLOGA SV;Outras localidades (agregado);Consultório Isolado;"SAO CRISTOVAO, 75";11370610;-23.951645;-46.382571;sim;nao;Alta;2049.5;Alto;Atendimento em consultório especializado;"Manhã, tarde e noite"
+u337;PATRICIA DUARTE IGNACIO DE SOUZA SAO VICENTE;Outras localidades (agregado);Consultório Isolado;"RUA PROPRIA, 114";11370570;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u338;ESF RIO BRANCO II E III SAO VICENTE;Jardim Rio Branco;UBS;"RUA EDUARDO CACAO, S/N";11347150;-23.980961;-46.473008;sim;nao;Baixa;8255.9;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u339;ESF JARDIM RIO BRANCO SAO VICENTE;Jardim Rio Branco;UBS;"RUA ANTONIO RISCALLE HUSNE, 1760";11347020;-23.979325;-46.470603;sim;nao;Baixa;8044.4;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u340;PRONTO SOCORRO RIO BRANCO SAO VICENTE;Jardim Rio Branco;Pronto Atendimento;"AV DEPUTADO ULISSES GUIMARAES, 721";11347000;-23.979955;-46.473244;sim;nao;Baixa;8297;Baixo;Serviço de Apoio (SADT);24 horas (plantão)
+u341;CAPS II JARDIM RIO BRANCO CENTRO DE ATENCAO PSICOSSOCIAL;Jardim Rio Branco;CAPS;"RUA DONALD ALEXANDRE KEALMAN, S/N";11347040;-23.980952;-46.474204;sim;nao;Baixa;8376.2;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u342;CENTRO DE AT ESP SAUDE DA PESSOA COM DEF REABILITAR II SV;Jardim Rio Branco;Clínica Especializada;"AV DR ULISSES GUIMARAES, 601";11347000;-23.982251;-46.470455;sim;nao;Baixa;7978.6;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u343;CEO III JD RIO BRANCO SAO VICENTE;Jardim Rio Branco;Clínica Especializada;"AV DEPUTADO ULISSES GUIMARAES, 1431";11347000;-23.983273;-46.468524;sim;nao;Média;7769.2;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u344;FARMA CONDE FILIAL 396 SV;Jardim Rio Branco;Farmácia;"IRMA DOLORES, 1005";11347520;-23.984213;-46.462565;sim;nao;Alta;7155.5;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u345;DROGARAIA LJ 1920 SV;Jardim Rio Branco;Farmácia;"DEPUTADO ULISSES GUIMARAES, 1607";11347000;-23.984409;-46.466975;sim;nao;Média;7597.9;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u346;WLADEMIR PATARO DE CASTRO SAO VICENTE;Jardim Rio Branco;Consultório Isolado;"AVENIDA DEPUTADO ULISSES GUIMARAES, 1547";11347000;-23.983928;-46.467498;sim;nao;Média;7656.8;Médio;Atendimento em consultório especializado;Manhã e tarde
+u347;CENTRO MEDICO POPULAR DE SAO VICENTE;Jardim Rio Branco;Consultório Isolado;"AV DEPUTADO ULISSES GUIMARAES, 1443";11347000;-23.983278;-46.468887;sim;nao;Baixa;7805.7;Baixo;Atendimento em consultório especializado;Manhã e tarde
+u348;HOSPITAL DE CAMPANHA COVID 19 SV CONTINENTAL;Jardim Rio Branco;Hospital Geral;"RUA JOSE FAGUNDES BEZERRA, S/N";11347070;-23.971702;-46.477487;sim;nao;Alta;8838;Alto;"Serviço de Apoio (SADT), Atendimento Ambulatorial";24 horas (plantão)
+u349;SAMU 192 SAO VICENTE 9;Jardim Rio Branco;Unidade Móvel de Urgência;"AV ULISSES GUIMARAES, 231";11347000;-23.976426;-46.477743;sim;nao;Média;8817.3;Médio;Atendimento geral;24 horas (plantão)
+u350;SAMU 192 MOTOLANCIA 2 SAO VICENTE;Jardim Rio Branco;Unidade Móvel de Urgência;"AV ULISSES GUIMARAES, 231";11347000;-23.97629;-46.477574;sim;nao;Média;8803.5;Médio;Atendimento geral;24 horas (plantão)
+u351;SAMU 192 MOTOLANCIA 1 SAO VICENTE;Jardim Rio Branco;Unidade Móvel de Urgência;"AV ULISSES GUIMARAES, 231";11347000;-23.97629;-46.477574;sim;nao;Média;8803.5;Médio;Atendimento geral;24 horas (plantão)
+u352;SAMU 192 MOTOLANCIA 3 SAO VICENTE;Jardim Rio Branco;Unidade Móvel de Urgência;"AV ULISSES GUIMARAES, 231";11347000;-23.97629;-46.477574;sim;nao;Média;8803.5;Médio;Atendimento geral;24 horas (plantão)
+u353;FARMACIA POPULAR DO BRASIL SAO VICENTE;Jardim Rio Branco;Farmácia;"AV ULISSES GUIMARAES, 791";11347000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u354;CLINICA MEDICA DRA MICHELE MELO SAO VICENTE;Jardim Rio Branco;Consultório Isolado;"AV DEPUTADO ULISSES GUIMARAES, 1546";11347000;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;Manhã e tarde
+u355;SAMU 192 SAO VICENTE 2;Jardim Rio Branco;Unidade Móvel de Urgência;"AV ULISSES GUIMARAES, 231";11347000;-23.97629;-46.477574;sim;nao;Média;8803.5;Médio;Atendimento geral;24 horas (plantão)
+u356;L A C SAUDE MAIS;Jardim Rio Branco;Apoio Diagnóstico e Terapia;"AV DEPUTADO ULISSES GUIMARAES, 1671";11347000;-23.979966;-46.473238;sim;nao;Baixa;8296.2;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u357;SAMU 192 SAO VICENTE 7;Jardim Rio Branco;Unidade Móvel de Urgência;"AV ULISSES GUIMARAES, 231";11347000;-23.976383;-46.477606;sim;nao;Média;8804.6;Médio;Atendimento geral;24 horas (plantão)
+u358;E S F JARDIM RIO NEGRO;Outras localidades (agregado);UBS;"RUA E, 110";11347430;-23.985097;-46.462524;sim;nao;Alta;7140;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u359;UNIDADE BASICA DE SAUDE JIP SAO VICENTE;Jóckey Club;UBS;"RUA ROBERTO KOCH, 584";11360190;-23.941528;-46.399216;sim;nao;Alta;3306.7;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u360;UNIDADE BASICA DE SAUDE SAMBAIATUBA SAO VICENTE;Jóckey Club;UBS;"PRACA DOM BOSCO, S/N";11365180;-23.945412;-46.389951;sim;nao;Alta;2728.4;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u361;CENTRO DE AT ESP A SAUDE DA CRIANCA COM DEF SAO CAMILO SV;Cidade Náutica;Clínica Especializada;"AV JOAO FRANCISCO BENSDORP, 261";11350010;-23.954943;-46.410414;sim;nao;Alta;2690.9;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u362;UNIDADE BASICA DE SAUDE PARQUE BITARU SAO VICENTE;Parque Bitaru;UBS;"PRACA INFANTE DOM HENRIQUE, S/N";11330205;-23.97123;-46.394617;sim;nao;Alta;428.7;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u363;PRONTO SOCORRO CENTRAL SAO VICENTE;Parque Bitaru;Pronto Atendimento;"AV MARECHAL CANDIDO MARIANO DA SILVA RONDON, 425";11330800;-23.962038;-46.397237;sim;nao;Alta;1170.5;Alto;Serviço de Apoio (SADT);24 horas (plantão)
+u364;FERNANDO LUIS MORETTI DA SILVA SAO VICENTE;Parque Bitaru;Consultório Isolado;"AV CAPITAO LUIZ ANTONIO PIMENTA, 397";11330200;;;sem_dado;sem_dado;;;;Atendimento em consultório especializado;Manhã e tarde
+u365;UNIDADE BASICA DE SAUDE PARQUE DAS BANDEIRAS SAO VICENTE;Parque das Bandeiras;UBS;"PRACA DARIO AREDES LACERDA, 70";11346005;-23.984638;-46.484841;sim;nao;Alta;9401.4;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u366;E S F GLEBA II;Parque das Bandeiras;UBS;"AV DR CELSO SANTOS, 510";11346250;-23.981971;-46.489672;sim;nao;Média;9919.6;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u367;PRONTO ATENDIMENTO PARQUE DAS BANDEIRAS SAO VICENTE;Parque das Bandeiras;Pronto Atendimento;"AV ESMERALDO SOARES TARQUINO DE CAMPOS, S/N";11346000;-23.985042;-46.484581;sim;nao;Alta;9371.2;Alto;Serviço de Apoio (SADT);24 horas (plantão)
+u368;ACADEMIA DA SAUDE PARQUE SAO VICENTE;Parque São Vicente;Polo Academia da Saúde;"PRACA DOM PEDRO I, S/N";11360240;-23.95213;-46.398146;sim;nao;Alta;2161.7;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u369;VIANNA MEDICINA ESPECIALIZADA SAO VICENTE;Parque São Vicente;Consultório Isolado;"RUA GUARANY, 314";11360000;-23.950802;-46.396963;sim;nao;Alta;2255.3;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u370;UNIDADE BASICA DE SAUDE PARQUE SAO VICENTE SAO VICENTE;Parque São Vicente;UBS;"PRACA DOM PEDRO I, S/N";11360240;-23.952042;-46.398168;sim;nao;Alta;2171.6;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u371;INSTITUTO ADESAF SAO VICENTE;Parque São Vicente;Clínica Especializada;"GUARANY, 70";11360000;-23.959042;-46.397759;sim;nao;Média;1466.9;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u372;CRUZ AZUL DE SAO PAULO AMBULATORIO SAO VICENTE;Parque São Vicente;Clínica Especializada;"PRACA RUI BARBOSA, 238";11360040;-23.955447;-46.398831;sim;nao;Alta;1863.5;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u373;FABIULA MARTINS LOURENCO SAO VICENTE;Parque São Vicente;Consultório Isolado;"RUA FREI GASPAR, 2160";11340000;-23.959273;-46.398511;sim;nao;Média;1490.7;Médio;Atendimento em consultório especializado;Manhã e tarde
+u374;UNIDADE BASICA DE SAUDE POMPEBA SAO VICENTE;Outras localidades (agregado);UBS;"RUA ANTONIO DA COSTA, S/N";11355150;-23.940207;-46.405879;sim;nao;Alta;3696;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u375;UNIDADE BASICA DE SAUDE PONTE NOVA SAO VICENTE;Outras localidades (agregado);UBS;"RUA SALVADOR, 70";11347725;-23.979909;-46.452555;sim;nao;Alta;6233.4;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u376;FLAVIA REGINA MARTINS DE OLIVEIRA SAO VICENTE;Parque Bitaru;Consultório Isolado;"R JACOB EMERICK, 1398";11310070;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u377;ESF CONTINENTAL SAO VICENTE;Parque Continental;UBS;"AV CENTRAL, 940";11348000;-23.955093;-46.458608;sim;nao;Alta;7173.5;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u378;UNIDADE BASICA DE SAUDE SAMARITA SAO VICENTE;Samaritá;UBS;"RUA SERGIPE, 70";11345050;-23.991082;-46.477362;sim;nao;Média;8605.8;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u379;CDP LUIS CESAR LACERDA DE SAO VICENTE;Samaritá;Posto de Saúde;"RODOVIA PADRE MANOEL DA NOBREGA, S/N";11346300;-23.937453;-46.464194;sim;nao;Média;8393.9;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u380;PENITENCIARIA I DR GERALDO DE ANDRADE VIEIRA DE SAO VICENTE;Samaritá;UBS;"RODOVIA PADRE MANOEL DA NOBREGA, 66";11348900;-23.96176;-46.4727;sim;nao;Média;8430.4;Médio;Serviço de Apoio (SADT);24 horas (plantão)
+u381;PENITENCIARIA II DE SAO VICENTE;Samaritá;Posto de Saúde;"RODOVIA PADRE MANOEL DA NOBREGA, 282";11348910;-23.92884;-46.46753;nao;nao;;9140.7;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u382;MAXIMA DROGARIA SV;Samaritá;Farmácia;"PIASSABUCU, 15";11345400;-23.990036;-46.474217;sim;nao;Baixa;8288.7;Baixo;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u383;CASA VILA DE SAO VICENTE;Samaritá;UBS;"PADRE MANOEL DA NOBREGA SP 55, S/N";11346300;-23.961783;-46.473836;sim;nao;Média;8544.5;Médio;Atendimento geral;24 horas (plantão)
+u384;ODONTO TEDESCO SAO VICENTE;Vila Cascatinha;Consultório Isolado;"AV ANTONIO EMMERICH, 110";11390000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u385;EUROFINS CLINICAL DIAGNOSTICS SAO VICENTE;Vila Cascatinha;Apoio Diagnóstico e Terapia;"ANTONIO EMMERICK, 245";11390001;-23.962364;-46.379508;sim;nao;Média;939.9;Médio;Exames de apoio diagnóstico;Manhã e tarde
+u386;AMB IRMA DOLORES SERV APOIO PSICOSSOCIAL S VICENTE;Vila Cascatinha;Clínica Especializada;"AV ANTONIO EMERICH, 94";11390000;-23.963526;-46.381315;sim;nao;Média;1033.4;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u387;MARIANA MARQUES BORRALHO SAO VICENTE;Vila Cascatinha;Consultório Isolado;"AVENIDA MOTTA LIMA, 10";11370100;-23.961488;-46.37868;sim;nao;Média;938.7;Médio;Atendimento em consultório especializado;"Manhã, tarde e noite"
+u388;CLINICA ODONTOLOGICA ODONTOYOU SS LTDA SAO VICENTE;Vila Cascatinha;Consultório Isolado;"AVENIDA ANTONIO EMMERICK, 358";11390000;-23.962364;-46.379508;sim;nao;Média;939.9;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u389;UVZ UNIDADE DE VIGILANCIA EM ZOONOSES SV;Vila Cascatinha;Vigilância em Saúde;"AV ANTONIO EMERICK, 750";11390001;-23.95982;-46.376678;sim;nao;Média;962.3;Médio;Vigilância epidemiológica e sanitária;Manhã e tarde
+u390;ALMOXARIFADO DA SAUDE SAO VICENTE;Vila Cascatinha;Farmácia;"AV PREFEITO JOSE MONTEIRO, 111";11330800;-23.961599;-46.376072;sim;nao;Média;760.8;Médio;Dispensação de medicamentos;Manhã e tarde
+u391;GUILHERME AUGUSTO BRAGA SILVA SAO VICENTE;Vila Cascatinha;Consultório Isolado;"AV ANTONIO EMERICH, 1018";11390001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u392;ESF VILA EMA E ESF VILA NOVA SAO VICENTE S VICENTE;Vila Ema;UBS;"RIA PADRE ANDRE DE SOVERAL, 240";11345310;-23.992565;-46.491415;sim;nao;Alta;10032.8;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u393;UNIDADE BASICA DE SAUDE VILA MARGARIDA SAO VICENTE;Vila Margarida;UBS;"RUA POLYDORIO DE OLIVEIRA BITTENCOURT, 299";11330570;-23.967141;-46.401743;sim;nao;Alta;1267.6;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u394;ESF SAQUARE SAO VICENTE;Vila Margarida;UBS;"RUA DO MEIO, S/N";11330710;-23.971338;-46.409836;sim;nao;Média;1966.1;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u395;CAPS II DOMINGOS STAMATO SAO VICENTE;Vila Margarida;CAPS;"RUA POLYDORO DE OLIVEIRA BITTENCOURT, 299";11330570;-23.967872;-46.402939;sim;nao;Média;1347.7;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u396;CAPS AD II SAO VICENTE;Vila Margarida;CAPS;"R POLIDORO DE OLIVEIRA BITENCOURT, 299";11330570;-23.963563;-46.381299;sim;nao;Média;1030.2;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u397;CENTRO MEDICO DE ESPECIALIDADES INFANTIS SAO VICENTE;Vila Margarida;Clínica Especializada;"RUA DR POLYDORO OLIVEIRA BITTENCOURT, 299";11330570;-23.966935;-46.401421;sim;nao;Alta;1243.4;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u398;INOVACAO SERVICOS TECNICOS EM RADIOLOGIA LTDA EPP;Vila Margarida;Clínica Especializada;"RUA ERNESTO INTRIERI, 65";11335000;;;sem_dado;sem_dado;;;;Atendimento geral;Manhã e tarde
+u399;UNIDADE DE SAUDE DO ADOLESCENTE SAO VICENTE;Vila Margarida;UBS;"RUA POLYDORO DE OLIVEIRA BITTENCOURT, 299";11330570;-23.96695;-46.401491;sim;nao;Alta;1249.8;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u400;UNIDADE BASICA DE SAUDE CENTRAL SAO VICENTE;Vila Melo;UBS;"AV ANTONIO EMMERICH, 509";11390001;-23.96114;-46.378231;sim;nao;Média;934.9;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u401;HOSPITAL ANA COSTA SAO VICENTE;Outras localidades (agregado);Pronto Atendimento;"AV MARECHAL CANDIDO MARIANO RONDON, 155";11330800;-23.962719;-46.387729;sim;nao;Alta;826.8;Alto;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u402;CENTRO DE AT ESP A SAUDE DA PESSOA COM DEF REABILITAR I SV;Vila São Jorge;Clínica Especializada;"AV MINAS GERAIS ESQUINA RUA COSTA REGO, 19";11380090;-23.95607;-46.369171;sim;nao;Média;1290.7;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u403;CAPS III MATER SAO VICENTE;Vila São Jorge;CAPS;"AV MINAS GERAIS ESQUINA RUA COSTA REGO, 19";11380140;-23.956025;-46.369193;sim;nao;Média;1295.1;Médio;Serviço de Apoio (SADT);24 horas (plantão)
+u404;HOSPITAL DO VICENTINO;Vila São Jorge;Hospital Geral;"AV MINAS GERAIS, 19";11380090;-23.964285;-46.387294;sim;nao;Alta;673.1;Alto;"Atendimento Hospitalar, Serviço de Apoio (SADT), Atendimento Ambulatorial";24 horas (plantão)
+u405;ODONTOKER SAO VICENTE;Vila São Jorge;Consultório Isolado;"AV ANTONIO EMMERICH, 1748";11380001;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u406;CAD II CENTRO DE APOIO E DIAGNOSTICO SAO VICENTE;Vila São Jorge;Apoio Diagnóstico e Terapia;"AV MINAS GERAIS ESQUINA RUA COSTA REGO, 19";11380140;-23.956136;-46.369278;sim;nao;Média;1281.1;Médio;Exames de apoio diagnóstico;Manhã e tarde
+u407;CATO CENTRO DE ATENDIMENTO EM TRAUMATOLOGIA E ORTOPEDIA;Vila São Jorge;Clínica Especializada;"AV MINAS GERAIS ESQUINA RUA COSTA REGO, 19";11380140;-23.900057;-46.378798;nao;nao;;7516.6;Baixo;Serviço de Apoio (SADT);Manhã e tarde
+u408;FARMA CONDE FILIAL 458 SV;Vila São Jorge;Farmácia;"ANTONIO EMMERICH, 260";11390000;-23.962666;-46.379878;sim;nao;Média;951.6;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u409;DROGARIA NOVA SAO JORGE SV;Vila São Jorge;Farmácia;"ANTONIO EMMERICK, 830";11370000;-23.961107;-46.374771;sim;nao;Média;749.4;Médio;Dispensação de medicamentos;"Manhã, tarde e noite"
+u410;ALIVIARTE SAO VICENTE;Outras localidades (agregado);Clínica Especializada;"AVENIDA ANTONIO EMMERICK, 1000";11370000;-23.957931;-46.375667;sim;nao;Média;1112.2;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u411;CLINIMEDI CLINICAS MEDICAS INTEGRADAS LTDA SAO VICENTE;Vila Valença;Consultório Isolado;"AV MARECHAL DEODORO, 581";11390100;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u412;ULYSSES GIOVANNINI SAO VICENTE;Vila Valença;Consultório Isolado;"AV PREFEITO JOSE MONTEIRO, 842";11330000;-23.965261;-46.370751;sim;sim;Alta;269.8;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u413;LUIZ AUGUSTO DE CARVALHO IERVOLINO SAO VICENTE;Vila Valença;Consultório Isolado;"AV MAL DEODORO, 581";11390100;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u414;MARIA IOLI PINFARI IERVOLINO SAO VICENTE;Vila Valença;Consultório Isolado;"AV MAL DEODORO, 581";11390100;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u415;CIONEIA SICUTI SAO VICENTE;Vila Valença;Consultório Isolado;"AV ANTONIO EMMERICK, 358";11390001;-23.962195;-46.379113;sim;nao;Média;919.6;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u416;MARCELA FERNANDA BIANCO SAO VICENTE;Vila Valença;Consultório Isolado;"RUA DOM LARA, 850";11390140;-23.963079;-46.379021;sim;nao;Média;853.7;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u417;LOURDES REGINA SALGUEIRO CASTRO SAO VICENTE;Vila Valença;Consultório Isolado;"AV MAL DEODORO, 737";11320000;;;sem_dado;sem_dado;;;;Serviço de Apoio (SADT);Manhã e tarde
+u418;CLAUDIA BEVILACQUA;Vila Valença;Consultório Isolado;"AVENIDA ANTONIO EMERICH, 292";11390001;-23.962567;-46.379666;sim;nao;Média;939.9;Médio;Atendimento em consultório especializado;Manhã e tarde
+u419;SELMA REGINA GAMBA DE OLIVEIRA SAO VICENTE;Vila Valença;Consultório Isolado;"AV PREFEITO JOSE MONTEIRO, 110";11310400;-23.961694;-46.376349;sim;nao;Média;767.5;Médio;Serviço de Apoio (SADT);"Manhã, tarde e noite"
+u420;HIGIA NEURO PSIQUIATRIA SAO VICENTE;Vila Valença;Consultório Isolado;"DON LARA, 224";11390140;-23.963077;-46.379052;sim;nao;Média;856.4;Médio;Atendimento em consultório especializado;Somente pela manhã
+u421;HOPE FISIO SAO VICENTE;Vila Valença;Consultório Isolado;"AVENIDA MARECHAL DEODORO, 197";11390100;-23.965625;-46.377763;sim;nao;Média;611.5;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u422;DENIZE RODRIGUES TEIXEIRA CASANOVA SAO VICENTE;Vila Valença;Consultório Isolado;"AV PREFEITO JOSE MONTEIRO, 924";11380000;-23.965965;-46.370635;sim;sim;Alta;213.1;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u423;AFIP SAO VICENTE;Vila Voturuá;Apoio Diagnóstico e Terapia;"AV MINAS GERAIS, 19";11310420;-23.957511;-46.369801;sim;nao;Média;1120.4;Médio;Exames de apoio diagnóstico;24 horas (plantão)
+u424;AMBULATORIO DA TERCEIRA IDADE SAO VICENTE;Vila Voturuá;Clínica Especializada;"R PRACA VITORIA DA CONQUISTA, S/N";11380140;-23.961499;-46.370482;sim;nao;Alta;672.6;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u425;UNIDADE BASICA DE SAUDE PRACA VITORIA SAO VICENTE;Vila Voturuá;UBS;"PRACA VITORIA DA CONQUISTA, S/N";11380410;-23.96195;-46.370453;sim;nao;Alta;624.7;Alto;Serviço de Apoio (SADT);Manhã e tarde
+u426;CAFARNAHUN SAO VICENTE;Vila Voturuá;Clínica Especializada;"JUIZ DE FORA, 238";11380420;-23.962114;-46.367956;sim;nao;Média;718.1;Médio;Serviço de Apoio (SADT);Manhã e tarde
+u427;SAMU 192 SAO VICENTE;Vila Nossa Senhora de Fátima;Central de Regulação de Urgências;"PRACA DA IMIGRACAO JAPONESA, S/N";11355230;-23.950607;-46.406641;sim;nao;Alta;2758.7;Alto;Serviço de Apoio (SADT);24 horas (plantão)

@@ -1,0 +1,32 @@
+﻿id;nome;populacao_total;populacao_branca;populacao_negra;populacao_amarela;populacao_indigena;qtd_unidades_saude;risco_inundacao;risco_deslizamento;latitude_centro;longitude_centro
+cidade-nautica;Cidade Náutica;31554;14407;17080;60;7;10;sim;nao;-23.950713;-46.411000375
+jockey-club;Jóckey Club;28232;10530;17682;10;10;2;sim;nao;-23.94347;-46.3945835
+vila-margarida;Vila Margarida;25316;9008;16294;3;11;7;sim;nao;-23.967299833333332;-46.39978816666667
+jardim-irma-dolores;Jardim Irmã Dolores;24882;8550;16306;16;10;2;sim;nao;-23.976453;-46.450419499999995
+jardim-rio-branco;Jardim Rio Branco;20455;7425;13002;9;19;20;sim;nao;-23.979565666666666;-46.47290738888889
+catiapoa;Catiapoã;14883;7277;7530;63;13;5;sim;nao;-23.958725599999998;-46.391057599999996
+parque-bitaru;Parque Bitaru;14331;6771;7453;88;19;4;sim;nao;-23.966634;-46.395927
+parque-continental;Parque Continental;13159;4962;8172;21;4;1;sim;nao;-23.955093;-46.458608
+parque-das-bandeiras;Parque das Bandeiras;11969;4880;7052;13;24;3;sim;nao;-23.983883666666667;-46.48636466666667
+humaita;Humaitá;11668;4688;6975;5;0;6;sim;nao;-23.9502472;-46.458905599999994
+gonzaguinha;Gonzaguinha;11330;7408;3824;93;5;5;sim;nao;-23.968129333333337;-46.381417
+samarita;Samaritá;11132;3916;7209;7;0;6;sim;nao;-23.961825666666666;-46.471639833333334
+parque-sao-vicente;Parque São Vicente;10358;5355;4975;21;7;6;sim;nao;-23.954789333333334;-46.398063
+boa-vista;Boa Vista;9973;7294;2579;94;6;4;sim;sim;-23.96989975;-46.366559499999994
+vila-nossa-senhora-de-fatima;Vila Nossa Senhora de Fátima;9349;4406;4940;3;0;1;sim;nao;-23.950607;-46.406641
+centro;Centro;8846;5675;3062;100;9;263;sim;sim;-23.96575801578946;-46.385151168421054
+itarare;Itararé;8764;6012;2688;61;3;24;sim;sim;-23.96880195;-46.37530405
+esplanada-dos-barreiros;Esplanada dos Barreiros;8630;4218;4399;13;0;2;sim;nao;-23.9615505;-46.4076845
+beira-mar;Beira Mar;7525;3662;3833;30;0;1;sim;nao;-23.957548;-46.402516
+vila-sao-jorge;Vila São Jorge;7417;4641;2707;47;22;8;sim;nao;-23.950906571428572;-46.37548328571429
+vila-valenca;Vila Valença;5660;4044;1584;27;5;12;sim;sim;-23.963682875;-46.37654375
+vila-melo;Vila Melo;5562;3439;2069;50;4;1;sim;nao;-23.96114;-46.378231
+japui;Japuí;5539;2937;2543;8;51;1;sim;nao;-23.984736;-46.39504
+vila-ema;Vila Ema;5300;2223;3077;0;0;1;sim;nao;-23.992565;-46.491415
+nova-sao-vicente;Nova São Vicente;4072;1618;2451;0;3;0;sem_dado;sem_dado;-23.9893111;-46.492552
+jardim-guassu;Jardim Guassu;3453;1877;1565;8;3;3;sim;nao;-23.9521075;-46.3775315
+jardim-independencia;Jardim Independência;3362;2085;1241;36;0;9;sim;sim;-23.963830625;-46.372869
+vila-voturua;Vila Voturuá;3194;1817;1362;11;4;4;sim;nao;-23.9607685;-46.369673
+vila-nova-mariana;Vila Nova Mariana;1677;535;1142;0;0;0;sem_dado;sem_dado;-23.9545578;-46.4489186
+outras-localidades;Outras localidades (agregado);;;;;;8;sim;nao;-23.96100257142857;-46.41805528571428
+vila-cascatinha;Vila Cascatinha;;;;;;8;sim;nao;-23.961860166666668;-46.37862683333333

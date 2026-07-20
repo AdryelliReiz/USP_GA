@@ -1,0 +1,33 @@
+Resumo do risco por unidade de saúde - São Vicente,,,,,,,,,,,
+,,,,,,,,,,,
+Situação de inundação,,,"Classe de suscetibilidade à inundação
+(entre as 326 em risco)",,,Proximidade a ponto de deslizamento (≤300m),,,,,
+Situação,Nº de unidades,,Classe,Nº de unidades,,Situação,Nº de unidades,,,,
+Sim,326,,Alta,137,,Sim,11,,,,
+Não,4,,Média,133,,Não,319,,,,
+Sem coordenadas,97,,Baixa,56,,Sem coordenadas,97,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Risco combinado (inundação × deslizamento),,,,,,,,,,,
+,Deslizamento: Sim,Deslizamento: Não,,,,,,,,,
+Inundação: Sim,11,315,,,,,,,,,
+Inundação: Não,0,4,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Top 10 bairros com mais unidades
+em área de inundação",,,"Nomes e bairros das 11 unidades tanto em risco de inundação quanto de deslizamento
+-> Esses seriam os bairros críticos no mapa (sofrem dos dois desastres)
+-> Essas seriam as unidades classificadas como em maior risco (sofrem dos dois desatres)",,,,,Nome e bairro das unidades que não sofrem de nenhum risco,,,
+Bairro,COUNTA of Em área de inundação?,,Nome da Unidade,Bairro,COUNTA of Em área de inundação?,COUNTA of Próxima a deslizamento (≤300m)?,,Nome da Unidade,Bairro,COUNTA of Em área de inundação?,COUNTA of Próxima a deslizamento (≤300m)?
+CENTRO,190,,ALMAI INSTITUTO DE NEURODESENVOLVIMENTO INFANTIL SV,CENTRO,1,1,,CATO CENTRO DE ATENDIMENTO EM TRAUMATOLOGIA E ORTOPEDIA,VILA SAO JORGE,1,1
+ITARARE,19,,CENTRO DE REABILITACAO NEUROLOGICA MATHEUS ALVARES II SV,BOA VISTA,1,1,,IACS PRESIDENTE WILSON SAO VICENTE,BOA VISTA,1,1
+JARDIM RIO BRANCO,18,,CLINICA IPIRANGA LTDA SAO VICENTE,CENTRO,1,1,,JULIA BITTENCOURT NUTRICIONISTA SAO VICENTE,ITARARE,1,1
+VILA VALENCA,8,,CLINICA PELLEGRINI SAO VICENTE,ITARARE,1,1,,PENITENCIARIA II DE SAO VICENTE,SAMARITA,1,1
+JARDIM INDEPENDENCIA,8,,DENIZE RODRIGUES TEIXEIRA CASANOVA SAO VICENTE,VILA VALENCA,1,1,,,,,
+VILA SAO JORGE,6,,DROGARIA CARREFOUR DSV,JARDIM INDEPENDENCIA,1,1,,,,,
+VILA MARGARIDA,6,,MARJORY ALFARO NASCIMENTO SAO VICENTE,CENTRO,1,1,,,,,
+VILA CASCATINHA,6,,TOMOSANTOS,CENTRO,1,1,,,,,
+PARQUE SAO VICENTE,6,,TOPFISIO CLINICA DE FISIOTERAPIA LTDA SAO VICENTE,JARDIM INDEPENDENCIA,1,1,,,,,
+CIDADE NAUTICA,6,,ULYSSES GIOVANNINI SAO VICENTE,VILA VALENCA,1,1,,,,,
+Grand Total,273,,ZAQUENIRA BATISTA BELCHIOR DE OLIVEIRA SAO VICENTE,CENTRO,1,1,,,,,

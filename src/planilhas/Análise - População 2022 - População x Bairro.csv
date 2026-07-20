@@ -1,0 +1,73 @@
+"Grupos populacionais por bairro
+(em azul, bairros do top 5 com mais unidades de saúde)",,,,,,,
+NM_BAIRRO,SITUACAO,SUM de pop_branco,SUM de pop_negros,NM_BAIRRO,SITUACAO,SUM de pop_amarel,SUM de pop_indige
+,,0,0,,,0,0
+,Rural,48,119,,Rural,0,0
+,Urbana,122,246,,Urbana,0,0
+ Total,,170,365, Total,,0,0
+Beira Mar,Urbana,3662,3833,Beira Mar,Urbana,30,0
+Beira Mar Total,,3662,3833,Beira Mar Total,,30,0
+Boa Vista,Urbana,7294,2579,Boa Vista,Urbana,94,6
+Boa Vista Total,,7294,2579,Boa Vista Total,,94,6
+Catiapoã,Urbana,7277,7530,Catiapoã,Urbana,63,13
+Catiapoã Total,,7277,7530,Catiapoã Total,,63,13
+Centro,Urbana,5675,3062,Centro,Urbana,100,9
+Centro Total,,5675,3062,Centro Total,,100,9
+Cidade Náutica,Urbana,14407,17080,Cidade Náutica,Urbana,60,7
+Cidade Náutica Total,,14407,17080,Cidade Náutica Total,,60,7
+Esplanada dos Barreiros,Urbana,4218,4399,Esplanada dos Barreiros,Urbana,13,0
+Esplanada dos Barreiros Total,,4218,4399,Esplanada dos Barreiros Total,,13,0
+Gonzaguinha,Urbana,7408,3824,Gonzaguinha,Urbana,93,5
+Gonzaguinha Total,,7408,3824,Gonzaguinha Total,,93,5
+Humaitá,Rural,0,0,Humaitá,Rural,0,0
+,Urbana,4688,6975,,Urbana,5,0
+Humaitá Total,,4688,6975,Humaitá Total,,5,0
+Itararé,Urbana,6012,2688,Itararé,Urbana,61,3
+Itararé Total,,6012,2688,Itararé Total,,61,3
+Japuí,Rural,0,0,Japuí,Rural,0,47
+,Urbana,2937,2543,,Urbana,8,4
+Japuí Total,,2937,2543,Japuí Total,,8,51
+Jardim Guassu,Urbana,1877,1565,Jardim Guassu,Urbana,8,3
+Jardim Guassu Total,,1877,1565,Jardim Guassu Total,,8,3
+Jardim Independência,Urbana,2085,1241,Jardim Independência,Urbana,36,0
+Jardim Independência Total,,2085,1241,Jardim Independência Total,,36,0
+Jardim Irmã Dolores,Rural,7,39,Jardim Irmã Dolores,Rural,0,0
+,Urbana,8543,16267,,Urbana,16,10
+Jardim Irmã Dolores Total,,8550,16306,Jardim Irmã Dolores Total,,16,10
+Jardim Rio Branco,Rural,0,0,Jardim Rio Branco,Rural,0,0
+,Urbana,7425,13002,,Urbana,9,19
+Jardim Rio Branco Total,,7425,13002,Jardim Rio Branco Total,,9,19
+Jóckey Club,Urbana,10530,17682,Jóckey Club,Urbana,10,10
+Jóckey Club Total,,10530,17682,Jóckey Club Total,,10,10
+Nova São Vicente,Urbana,1618,2451,Nova São Vicente,Urbana,0,3
+Nova São Vicente Total,,1618,2451,Nova São Vicente Total,,0,3
+Parque Bitaru,Urbana,6771,7453,Parque Bitaru,Urbana,88,19
+Parque Bitaru Total,,6771,7453,Parque Bitaru Total,,88,19
+Parque Continental,Urbana,4962,8172,Parque Continental,Urbana,21,4
+Parque Continental Total,,4962,8172,Parque Continental Total,,21,4
+Parque das Bandeiras,Rural,5,18,Parque das Bandeiras,Rural,0,0
+,Urbana,4875,7034,,Urbana,13,24
+Parque das Bandeiras Total,,4880,7052,Parque das Bandeiras Total,,13,24
+Parque São Vicente,Urbana,5355,4975,Parque São Vicente,Urbana,21,7
+Parque São Vicente Total,,5355,4975,Parque São Vicente Total,,21,7
+Samarita,Rural,0,0,Samarita,Rural,0,0
+,Urbana,3916,7209,,Urbana,7,0
+Samarita Total,,3916,7209,Samarita Total,,7,0
+Vila Ema,Rural,0,0,Vila Ema,Rural,0,0
+,Urbana,2223,3077,,Urbana,0,0
+Vila Ema Total,,2223,3077,Vila Ema Total,,0,0
+Vila Margarida,Urbana,9008,16294,Vila Margarida,Urbana,3,11
+Vila Margarida Total,,9008,16294,Vila Margarida Total,,3,11
+Vila Melo,Urbana,3439,2069,Vila Melo,Urbana,50,4
+Vila Melo Total,,3439,2069,Vila Melo Total,,50,4
+Vila Nossa Senhora de Fátima,Urbana,4406,4940,Vila Nossa Senhora de Fátima,Urbana,3,0
+Vila Nossa Senhora de Fátima Total,,4406,4940,Vila Nossa Senhora de Fátima Total,,3,0
+Vila Nova Mariana,Urbana,535,1142,Vila Nova Mariana,Urbana,0,0
+Vila Nova Mariana Total,,535,1142,Vila Nova Mariana Total,,0,0
+Vila São Jorge,Urbana,4641,2707,Vila São Jorge,Urbana,47,22
+Vila São Jorge Total,,4641,2707,Vila São Jorge Total,,47,22
+Vila Valença,Urbana,4044,1584,Vila Valença,Urbana,27,5
+Vila Valença Total,,4044,1584,Vila Valença Total,,27,5
+Vila Voturuá,Urbana,1817,1362,Vila Voturuá,Urbana,11,4
+Vila Voturuá Total,,1817,1362,Vila Voturuá Total,,11,4
+Total geral,,151830,175161,Total geral,,897,239

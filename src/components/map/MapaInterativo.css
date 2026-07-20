@@ -1,0 +1,322 @@
+.mapa-interativo {
+  background: #fff;
+}
+
+.mapa-interativo__grid {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr;
+  gap: var(--space-6);
+  align-items: start;
+}
+
+.mapa-interativo__map-wrap {
+  position: relative;
+}
+
+.mapa-interativo__reset {
+  position: absolute;
+  top: var(--space-4);
+  left: var(--space-4);
+  background: rgba(26, 30, 44, 0.78);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  padding: 9px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  backdrop-filter: blur(4px);
+  z-index: 5;
+}
+
+.mapa-interativo__reset:hover {
+  background: rgba(26, 30, 44, 0.94);
+}
+
+.mapa-interativo__note {
+  font-size: 12.5px;
+  color: var(--cc-dark-45);
+  font-style: italic;
+  margin-top: var(--space-3);
+}
+
+/* Legenda */
+.svmap-legend {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-3);
+  margin-top: var(--space-4);
+  padding: var(--space-4);
+  background: var(--cc-off-white);
+  border-radius: var(--radius-md);
+}
+
+.svmap-legend__item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-2);
+  font-size: 12.5px;
+}
+
+.svmap-legend__item strong {
+  display: block;
+  font-size: 13px;
+}
+
+.svmap-legend__item span {
+  color: var(--cc-dark-45);
+}
+
+.svmap-legend__swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 4px;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+/* Pin popup */
+.pin-popup {
+  position: absolute;
+  left: var(--space-4);
+  bottom: var(--space-4);
+  right: var(--space-4);
+  max-width: 340px;
+  background: #fff;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card-hover);
+  padding: var(--space-5);
+  z-index: 1000;
+  isolation: isolate;
+  animation: pin-popup-in 0.25s ease both;
+}
+
+@keyframes pin-popup-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.pin-popup__close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: var(--cc-dark-06);
+  border: none;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  font-size: 16px;
+  line-height: 1;
+  color: var(--cc-dark-65);
+}
+
+.pin-popup__tag {
+  display: inline-block;
+  font-size: 11.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--cc-verde);
+  background: var(--cc-verde-10);
+  padding: 3px 9px;
+  border-radius: 999px;
+  margin-bottom: var(--space-2);
+}
+
+.pin-popup__title {
+  font-size: 18px;
+  margin-bottom: var(--space-3);
+  padding-right: 24px;
+}
+
+.pin-popup__list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  margin: 0;
+}
+
+.pin-popup__list dt {
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--cc-dark-45);
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.pin-popup__list dd {
+  margin: 0;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+
+/* Painel do bairro */
+.painel-bairro {
+  padding: var(--space-5);
+  position: sticky;
+  top: 88px;
+}
+
+.painel-bairro--empty {
+  text-align: center;
+  padding: var(--space-7) var(--space-5);
+  color: var(--cc-dark-45);
+}
+
+.painel-bairro__empty-icon {
+  font-size: 32px;
+  display: block;
+  margin-bottom: var(--space-3);
+}
+
+.painel-bairro--empty h3 {
+  font-size: 18px;
+  color: var(--cc-dark);
+  margin-bottom: var(--space-2);
+}
+
+.painel-bairro--empty p {
+  font-size: 13.5px;
+  line-height: 1.6;
+}
+
+.painel-bairro__header h3 {
+  font-size: 22px;
+  margin-bottom: var(--space-4);
+}
+
+.painel-bairro__stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
+}
+
+.painel-bairro__stats > div {
+  background: var(--cc-off-white);
+  border-radius: var(--radius-sm);
+  padding: var(--space-3);
+}
+
+.painel-bairro__stats span {
+  display: block;
+  font-size: 11.5px;
+  color: var(--cc-dark-45);
+  margin-bottom: 3px;
+}
+
+.painel-bairro__stats strong {
+  font-family: var(--font-display);
+  font-size: 20px;
+  color: var(--cc-dark);
+}
+
+.painel-bairro__flags {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  margin-bottom: var(--space-5);
+}
+
+.flag {
+  font-size: 13px;
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-sm);
+  background: var(--cc-verde-10);
+  color: var(--cc-verde-escuro);
+}
+
+.flag--on {
+  background: var(--cc-laranja-10);
+  color: #a4530c;
+}
+
+.painel-bairro__charts {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+  margin-bottom: var(--space-5);
+  border-top: 1px solid var(--cc-dark-06);
+  border-bottom: 1px solid var(--cc-dark-06);
+  padding: var(--space-4) 0;
+}
+
+.painel-bairro__chart h4 {
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.painel-bairro__chart-desc {
+  font-size: 12px;
+  color: var(--cc-dark-45);
+  margin-bottom: var(--space-2);
+  line-height: 1.5;
+}
+
+.painel-bairro__chart-empty {
+  font-size: 12.5px;
+  color: var(--cc-dark-45);
+  font-style: italic;
+  padding: var(--space-4) 0;
+}
+
+.painel-bairro__note {
+  font-size: 12px;
+  color: var(--cc-dark-45);
+  font-style: italic;
+  background: var(--cc-off-white);
+  border-radius: var(--radius-sm);
+  padding: var(--space-2) var(--space-3);
+  margin-bottom: var(--space-4);
+}
+
+.flag--indisponivel {
+  background: var(--cc-dark-06);
+  color: var(--cc-dark-45);
+}
+
+/* Filtro */
+.filtro-painel {
+  border: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.filtro-painel legend {
+  font-size: 13px;
+  font-weight: 700;
+  padding: 0;
+  margin-bottom: var(--space-2);
+}
+
+.filtro-painel__opcao {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-2);
+  font-size: 13.5px;
+  cursor: pointer;
+  color: var(--cc-dark-65);
+}
+
+.filtro-painel__opcao input {
+  margin-top: 3px;
+  accent-color: var(--cc-verde);
+}
+
+@media (max-width: 980px) {
+  .mapa-interativo__grid { grid-template-columns: 1fr; }
+  .painel-bairro { position: static; }
+}
+
+@media (max-width: 560px) {
+  .svmap-legend { grid-template-columns: 1fr; }
+  .painel-bairro__stats { grid-template-columns: 1fr 1fr; }
+}
