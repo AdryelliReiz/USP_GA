@@ -39,6 +39,25 @@
   margin-top: var(--space-3);
 }
 
+.mapa-interativo__dica {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-2);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--cc-dark-65);
+  background: var(--cc-verde-10);
+  border-radius: var(--radius-sm);
+  padding: var(--space-3) var(--space-4);
+  margin-top: var(--space-4);
+}
+
+.mapa-interativo__dica-icon {
+  font-size: 16px;
+  line-height: 1.4;
+  flex-shrink: 0;
+}
+
 /* Legenda */
 .svmap-legend {
   display: grid;

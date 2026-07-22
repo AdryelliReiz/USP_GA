@@ -21,56 +21,65 @@ export default function MapaInterativo() {
   }
 
   return (
-    <section id="mapa" className="section mapa-interativo">
-      <div className="container">
-        <div className="section-head">
-          <span className="section-eyebrow">Mapa interativo</span>
-          <h2 className="section-title">Bairros de São Vicente e suas unidades de saúde</h2>
-          <p className="section-subtitle">
-            Clique em um bairro para dar zoom e visualizar as unidades de saúde daquela
-            região. Bairros em <strong>zona crítica</strong> enfrentam risco simultâneo de
-            inundação e deslizamento.
-          </p>
-        </div>
-
-        <div className="mapa-interativo__grid">
-          <div className="mapa-interativo__map-col">
-            <div className="mapa-interativo__map-wrap">
-              <SaoVicenteMap
-                selectedBairroId={selectedBairroId}
-                onSelectBairro={handleSelectBairro}
-                hoveredBairroId={hoveredBairroId}
-                onHoverBairro={setHoveredBairroId}
-                filtro={filtro}
-                onSelectUnidade={setSelectedUnidade}
-              />
-              {selectedBairroId && (
-                <button className="mapa-interativo__reset" onClick={() => handleSelectBairro(null)}>
-                  ← Ver mapa completo
-                </button>
-              )}
-              {selectedUnidade && (
-                <PinPopup unidade={selectedUnidade} onClose={() => setSelectedUnidade(null)} />
-              )}
-            </div>
-            <MapLegend />
-            <p className="mapa-interativo__note">
-              Mapa renderizado com Leaflet a partir do contorno oficial do município (malha do
-              IBGE) e das coordenadas reais das unidades de saúde (CNES 2019) — sem tiles de
-              rua ou cidades vizinhas, apenas o litoral e o limite administrativo real de São
-              Vicente. As fronteiras entre bairros são um diagrama de Voronoi a partir do
-              centro real de cada bairro, recortado ao contorno oficial — uma aproximação
-              cartográfica, já que não há polígono oficial de bairro nos dados disponíveis.
+      <section id="mapa" className="section mapa-interativo">
+        <div className="container">
+          <div className="section-head">
+            <span className="section-eyebrow">Mapa interativo</span>
+            <h2 className="section-title">Bairros de São Vicente e suas unidades de saúde</h2>
+            <p className="section-subtitle">
+              Clique em um bairro para dar zoom e visualizar as unidades de saúde daquela
+              região. Bairros em <strong>zona crítica</strong> enfrentam risco simultâneo de
+              inundação e deslizamento.
             </p>
           </div>
 
-          <PainelBairro
-            bairro={bairroSelecionado}
-            filtro={filtro}
-            onFiltroChange={setFiltro}
-          />
+          <div className="mapa-interativo__grid">
+            <div className="mapa-interativo__map-col">
+              <div className="mapa-interativo__map-wrap">
+                <SaoVicenteMap
+                    selectedBairroId={selectedBairroId}
+                    onSelectBairro={handleSelectBairro}
+                    hoveredBairroId={hoveredBairroId}
+                    onHoverBairro={setHoveredBairroId}
+                    filtro={filtro}
+                    onSelectUnidade={setSelectedUnidade}
+                />
+                {selectedBairroId && (
+                    <button className="mapa-interativo__reset" onClick={() => handleSelectBairro(null)}>
+                      ← Ver mapa completo
+                    </button>
+                )}
+                {selectedUnidade && (
+                    <PinPopup unidade={selectedUnidade} onClose={() => setSelectedUnidade(null)} />
+                )}
+              </div>
+              <MapLegend />
+              <p className="mapa-interativo__dica">
+                <span className="mapa-interativo__dica-icon" aria-hidden="true">💡</span>
+                <span>
+                Em regiões mais densas, alguns bairros menores não mostram o nome e a
+                quantidade de unidades fixos no mapa por falta de espaço. Passe o mouse sobre
+                a área para ver essas informações, ou clique para selecionar o bairro e abrir
+                o painel de detalhes ao lado.
+              </span>
+              </p>
+              <p className="mapa-interativo__note">
+                Mapa renderizado com Leaflet a partir do contorno oficial do município (malha do
+                IBGE) e das coordenadas reais das unidades de saúde (CNES 2019) — sem tiles de
+                rua ou cidades vizinhas, apenas o litoral e o limite administrativo real de São
+                Vicente. As fronteiras entre bairros são um diagrama de Voronoi a partir do
+                centro real de cada bairro, recortado ao contorno oficial — uma aproximação
+                cartográfica, já que não há polígono oficial de bairro nos dados disponíveis.
+              </p>
+            </div>
+
+            <PainelBairro
+                bairro={bairroSelecionado}
+                filtro={filtro}
+                onFiltroChange={setFiltro}
+            />
+          </div>
         </div>
-      </div>
-    </section>
+      </section>
   )
 }
