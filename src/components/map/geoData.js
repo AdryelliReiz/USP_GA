@@ -82,6 +82,12 @@ export const municipioBounds = (() => {
   return [[bbox[1], bbox[0]], [bbox[3], bbox[2]]]
 })()
 
+// Proporção real (largura/altura) do contorno do município, corrigida pela
+// latitude (mesma correção usada no cálculo do Voronoi). Usada para que o
+// contêiner do mapa tenha a mesma proporção da geografia real, evitando
+// espaço vazio sobrando e um zoom inicial desnecessariamente distante.
+export const municipioAspectRatio = ((maxLon - minLon) * COS_LAT) / (maxLat - minLat)
+
 export function unidadeLatLon(u) {
   return [u.lat, u.lon]
 }

@@ -4,7 +4,7 @@
 
 .mapa-interativo__grid {
   display: grid;
-  grid-template-columns: 1.6fr 1fr;
+  grid-template-columns: 1.9fr 1fr;
   gap: var(--space-6);
   align-items: start;
 }
