@@ -94,22 +94,20 @@ export default function GraficosInsights() {
             title="Top 5 unidades com maior % de risco individual"
             desc="Unidades de saúde com o maior percentual estimado de exposição a riscos ambientais, considerando tipo e quantidade de riscos."
           >
-            <div className="table-scroll">
-              <table className="insight-table">
-                <thead>
-                  <tr><th>Unidade</th><th>Bairro</th><th>% risco</th></tr>
-                </thead>
-                <tbody>
-                  {topUnidadesRisco.map((u) => (
-                    <tr key={u.id}>
-                      <td>{u.nome}</td>
-                      <td>{bairros.find((b) => b.id === u.bairroId)?.nome}</td>
-                      <td><RiskBadge level={u.nivelRisco} /> <strong>{u.percentual}%</strong></td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
+            <table className="insight-table">
+              <thead>
+                <tr><th>Unidade</th><th>Bairro</th><th>% risco</th></tr>
+              </thead>
+              <tbody>
+                {topUnidadesRisco.map((u) => (
+                  <tr key={u.id}>
+                    <td data-label="Unidade">{u.nome}</td>
+                    <td data-label="Bairro">{bairros.find((b) => b.id === u.bairroId)?.nome}</td>
+                    <td data-label="% risco"><RiskBadge level={u.nivelRisco} /> <strong>{u.percentual}%</strong></td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </InsightCard>
 
           <InsightCard
@@ -117,7 +115,6 @@ export default function GraficosInsights() {
             title="Top 5 bairros com maior sobrecarga"
             desc="Bairros com a maior razão população / unidades de saúde — alta demanda combinada a poucas unidades disponíveis."
           >
-            <div className="table-scroll">
             <table className="insight-table">
               <thead>
                 <tr><th>Bairro</th><th>População</th><th>Unidades</th><th>Pessoas/unidade</th></tr>
@@ -125,10 +122,10 @@ export default function GraficosInsights() {
               <tbody>
                 {topRazao.map((b) => (
                   <tr key={b.bairroId}>
-                    <td>{b.bairro}</td>
-                    <td>{b.populacao.toLocaleString('pt-BR')}</td>
-                    <td>{b.qtdUnidades}</td>
-                    <td>
+                    <td data-label="Bairro">{b.bairro}</td>
+                    <td data-label="População">{b.populacao.toLocaleString('pt-BR')}</td>
+                    <td data-label="Unidades">{b.qtdUnidades}</td>
+                    <td data-label="Pessoas/unidade">
                       {Number.isFinite(b.razao)
                         ? <strong>{b.razao.toLocaleString('pt-BR')}</strong>
                         : <span className="badge badge--critico">Nenhuma unidade</span>}
@@ -137,7 +134,6 @@ export default function GraficosInsights() {
                 ))}
               </tbody>
             </table>
-            </div>
           </InsightCard>
 
           <InsightCard
@@ -147,11 +143,19 @@ export default function GraficosInsights() {
           >
             <ResponsiveContainer width="100%" height={260}>
               <PieChart>
-                <Pie data={problemaEssenciais} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={90} label={({ name, value }) => `${name}: ${value}`}>
+                <Pie
+                  data={problemaEssenciais}
+                  dataKey="value"
+                  nameKey="name"
+                  cx="50%"
+                  cy="50%"
+                  outerRadius="62%"
+                  label={({ value }) => value}
+                >
                   {problemaEssenciais.map((d, i) => <Cell key={i} fill={PROBLEMA_CORES[d.name]} />)}
                 </Pie>
                 <Tooltip />
-                <Legend />
+                <Legend wrapperStyle={{ fontSize: 12 }} />
               </PieChart>
             </ResponsiveContainer>
           </InsightCard>
@@ -163,7 +167,7 @@ export default function GraficosInsights() {
           >
             <ResponsiveContainer width="100%" height={300}>
               <PieChart>
-                <Pie data={tiposGeral} dataKey="value" nameKey="name" cx="50%" cy="42%" outerRadius={80} label={({ value }) => value}>
+                <Pie data={tiposGeral} dataKey="value" nameKey="name" cx="50%" cy="42%" outerRadius="55%" label={({ value }) => value}>
                   {tiposGeral.map((_, i) => <Cell key={i} fill={TIPO_CORES[i % TIPO_CORES.length]} />)}
                 </Pie>
                 <Tooltip />

@@ -181,14 +181,6 @@ img, svg {
   color: #fff;
 }
 
-/* Wrapper genérico para permitir rolagem horizontal de tabelas
-   sem "vazar" e empurrar o layout inteiro para o lado em telas pequenas. */
-.table-scroll {
-  width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-}
-
 @media (max-width: 720px) {
   .container { padding: 0 var(--space-4); }
   .section { padding: var(--space-8) 0; }
