@@ -4,11 +4,12 @@
 
 .insight-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: var(--space-5);
 }
 
 .insight-card {
+  min-width: 0;
   padding: var(--space-5) var(--space-6) var(--space-6);
   background: #fff;
 }
