@@ -56,6 +56,7 @@
 
 .hero__actions {
   display: flex;
+  flex-wrap: wrap;
   gap: var(--space-4);
   margin-top: var(--space-6);
 }
@@ -70,4 +71,30 @@
   border-color: #fff;
   color: #fff;
   background: rgba(255, 255, 255, 0.12);
+}
+
+@media (max-width: 720px) {
+  .hero {
+    padding: var(--space-8) 0 var(--space-7);
+  }
+
+  .hero__subtitle,
+  .hero__disclaimer {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero__title br {
+    display: none;
+  }
+
+  .hero__actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero__actions .btn {
+    justify-content: center;
+  }
 }

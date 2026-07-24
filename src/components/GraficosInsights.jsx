@@ -94,20 +94,22 @@ export default function GraficosInsights() {
             title="Top 5 unidades com maior % de risco individual"
             desc="Unidades de saúde com o maior percentual estimado de exposição a riscos ambientais, considerando tipo e quantidade de riscos."
           >
-            <table className="insight-table">
-              <thead>
-                <tr><th>Unidade</th><th>Bairro</th><th>% risco</th></tr>
-              </thead>
-              <tbody>
-                {topUnidadesRisco.map((u) => (
-                  <tr key={u.id}>
-                    <td>{u.nome}</td>
-                    <td>{bairros.find((b) => b.id === u.bairroId)?.nome}</td>
-                    <td><RiskBadge level={u.nivelRisco} /> <strong>{u.percentual}%</strong></td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
+            <div className="table-scroll">
+              <table className="insight-table">
+                <thead>
+                  <tr><th>Unidade</th><th>Bairro</th><th>% risco</th></tr>
+                </thead>
+                <tbody>
+                  {topUnidadesRisco.map((u) => (
+                    <tr key={u.id}>
+                      <td>{u.nome}</td>
+                      <td>{bairros.find((b) => b.id === u.bairroId)?.nome}</td>
+                      <td><RiskBadge level={u.nivelRisco} /> <strong>{u.percentual}%</strong></td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
           </InsightCard>
 
           <InsightCard
@@ -115,6 +117,7 @@ export default function GraficosInsights() {
             title="Top 5 bairros com maior sobrecarga"
             desc="Bairros com a maior razão população / unidades de saúde — alta demanda combinada a poucas unidades disponíveis."
           >
+            <div className="table-scroll">
             <table className="insight-table">
               <thead>
                 <tr><th>Bairro</th><th>População</th><th>Unidades</th><th>Pessoas/unidade</th></tr>
@@ -134,6 +137,7 @@ export default function GraficosInsights() {
                 ))}
               </tbody>
             </table>
+            </div>
           </InsightCard>
 
           <InsightCard

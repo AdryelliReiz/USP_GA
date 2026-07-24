@@ -44,6 +44,7 @@
 
 .insight-table {
   width: 100%;
+  min-width: 420px;
   border-collapse: collapse;
   font-size: 13.5px;
 }

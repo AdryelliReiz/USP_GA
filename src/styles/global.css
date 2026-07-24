@@ -6,6 +6,12 @@
 
 html {
   scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+html, body {
+  overflow-x: hidden;
+  width: 100%;
 }
 
 body {
@@ -175,7 +181,23 @@ img, svg {
   color: #fff;
 }
 
+/* Wrapper genérico para permitir rolagem horizontal de tabelas
+   sem "vazar" e empurrar o layout inteiro para o lado em telas pequenas. */
+.table-scroll {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
 @media (max-width: 720px) {
   .container { padding: 0 var(--space-4); }
   .section { padding: var(--space-8) 0; }
+}
+
+@media (max-width: 480px) {
+  .container { padding: 0 var(--space-3); }
+  .section { padding: var(--space-7) 0; }
+  .section-title { font-size: clamp(24px, 7vw, 32px); }
+  .section-subtitle { font-size: 14.5px; }
+  .btn { font-size: 13px; padding: 10px 18px; }
 }
