@@ -96,14 +96,19 @@ export default function GraficosInsights() {
           >
             <table className="insight-table">
               <thead>
-                <tr><th>Unidade</th><th>Bairro</th><th>% risco</th></tr>
+                <tr><th>Unidade</th><th>Bairro</th><th className="insight-table__risco">% risco</th></tr>
               </thead>
               <tbody>
                 {topUnidadesRisco.map((u) => (
                   <tr key={u.id}>
                     <td data-label="Unidade">{u.nome}</td>
                     <td data-label="Bairro">{bairros.find((b) => b.id === u.bairroId)?.nome}</td>
-                    <td data-label="% risco"><RiskBadge level={u.nivelRisco} /> <strong>{u.percentual}%</strong></td>
+                    <td data-label="% risco" className="insight-table__risco">
+                      <span className="insight-table__risco-inner">
+                        <RiskBadge level={u.nivelRisco} />
+                        <strong>{u.percentual}%</strong>
+                      </span>
+                    </td>
                   </tr>
                 ))}
               </tbody>

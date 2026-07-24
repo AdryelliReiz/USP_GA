@@ -71,6 +71,18 @@
   background: var(--cc-off-white);
 }
 
+.insight-table th.insight-table__risco,
+.insight-table td.insight-table__risco {
+  text-align: center;
+}
+
+.insight-table__risco-inner {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
 @media (max-width: 980px) {
   .insight-grid { grid-template-columns: 1fr; }
 }

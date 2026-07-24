@@ -139,6 +139,8 @@
   color: var(--cc-laranja);
   flex-shrink: 0;
   line-height: 1.2;
+  width: 40px;
+  text-align: left;
 }
 
 .vg-ranking__rank--safe {
